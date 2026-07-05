@@ -1,0 +1,10 @@
+node_modules/
+dist/
+public/data/
+dist-single/
+.vercel/
+.env
+.env.local
+*.local
+.DS_Store
+coverage/

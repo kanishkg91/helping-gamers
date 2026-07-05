@@ -1,0 +1,66 @@
+[
+  {
+    "id": "eu-eci-response",
+    "jurisdiction": "European Union",
+    "name": "'Stop Destroying Videogames' Citizens' Initiative — Commission response",
+    "status": "Commission declined to legislate; industry code of conduct promised by end of 2026",
+    "date": "2026-06-16",
+    "summary": "1,294,188 verified EU citizens demanded that games remain playable after publisher support ends. On June 16, 2026 the European Commission said it cannot propose such a law, citing intellectual property rights, and instead committed to an industry code-of-conduct process and 'raising awareness of existing consumer rights'. In other words: transparency is all you get. This app is that transparency.",
+    "whatYouCanDo": "The fight moved to the Digital Fairness Act. The movement is pushing to get game-preservation duties written into it — public consultations are where citizen voices count.",
+    "actionUrl": "https://www.stopkillinggames.com/",
+    "sources": [
+      "https://citizens-initiative.europa.eu/stop-destroying-videogames_en",
+      "https://digital-strategy.ec.europa.eu/en/news/commission-will-engage-industry-following-european-citizens-initiative-disabling-videogames",
+      "https://www.lewissilkin.com/insights/2026/06/24/european-commission-stops-short-of-imposing-mandatory-requirements-following-citi-102n4yy"
+    ]
+  },
+  {
+    "id": "california-ab1921",
+    "jurisdiction": "California, USA",
+    "name": "Protect Our Games Act (AB 1921)",
+    "status": "Passed State Assembly; in Senate committee as of June 2026",
+    "date": "2026-06-01",
+    "summary": "Would require publishers selling in California to disclose planned end-of-support and to leave games in a playable state (or refund) when servers shut down. Passed the Assembly in 2026 and moved to the Senate — the most concrete legislative threat to the kill-switch business model anywhere in the US.",
+    "whatYouCanDo": "California residents: tell your state senator you support AB 1921.",
+    "actionUrl": "https://leginfo.legislature.ca.gov/",
+    "sources": ["https://gamerant.com/protect-our-games-bill-passes-assembly/"]
+  },
+  {
+    "id": "california-ab2426",
+    "jurisdiction": "California, USA",
+    "name": "AB 2426 — digital 'purchase' disclosure law",
+    "status": "In force since 2025",
+    "date": "2024-09-24",
+    "summary": "Storefronts may no longer tell Californians they are 'buying' a game unless they disclose it's only a revocable license. This is why Steam's checkout now admits you're buying a license. It changed the label, not the deal — but it made the deal visible.",
+    "sources": ["https://en.wikipedia.org/wiki/California_Assembly_Bill_2426", "https://www.theverge.com/2024/10/11/24267678/steam-purchase-license-disclaimer-california-ab-2426"]
+  },
+  {
+    "id": "crew-lawsuit",
+    "jurisdiction": "USA (C.D. California)",
+    "name": "The Crew shutdown class action vs. Ubisoft",
+    "status": "Ongoing",
+    "date": "2024-11-04",
+    "summary": "After Ubisoft killed The Crew and revoked its licenses, California players sued. Ubisoft's defense: buyers received only a limited license and 'never owned' the game. In 2025 the court let key claims proceed — including that unexpired in-game currency functions like a gift card that can't legally expire. The case is live precedent for what 'buy' means.",
+    "sources": ["https://www.polygon.com/gaming/510164/ubisoft-lawsuit-the-crew-shutdown-license"]
+  },
+  {
+    "id": "uk-petition",
+    "jurisdiction": "United Kingdom",
+    "name": "'Require videogame publishers to keep games they have sold in a working state' petition",
+    "status": "Government declined to act (2025)",
+    "date": "2025-02-01",
+    "summary": "The UK petition passed the debate threshold; the government responded that existing consumer law suffices and it has no plans to change the rules. UK players remain covered only by general consumer-protection law that has never been tested against a game shutdown.",
+    "sources": ["https://petition.parliament.uk/petitions/702074/", "https://en.wikipedia.org/wiki/Stop_Killing_Games"]
+  },
+  {
+    "id": "eu-digital-fairness-act",
+    "jurisdiction": "European Union",
+    "name": "Digital Fairness Act",
+    "status": "In legislative preparation; the movement's next battleground",
+    "date": "2026-06-16",
+    "summary": "The EU's upcoming consumer-protection overhaul. After the Commission declined to act on the citizens' initiative directly, Stop Killing Games is working to have playability and end-of-life duties included here — 'we are in a position to pass legislation on this even without the Commission's blessing', per founder Ross Scott.",
+    "whatYouCanDo": "EU citizens: respond to Digital Fairness Act consultations and contact your MEPs.",
+    "actionUrl": "https://www.stopkillinggames.com/",
+    "sources": ["https://en.wikipedia.org/wiki/Stop_Killing_Games", "https://outof.games/news/9185-the-european-commission-answers-to-the-stop-killing-games-movement/"]
+  }
+]
