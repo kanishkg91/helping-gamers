@@ -1,0 +1,34 @@
+{
+  "name": "killswitch",
+  "private": true,
+  "version": "1.0.0",
+  "description": "You bought it. Find out if you get to keep it. Survival grades for the games you own.",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/compose-dataset.mjs",
+    "prebuild": "node scripts/compose-dataset.mjs",
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "build:single": "BUILD_SINGLE=1 vite build --outDir dist-single --emptyOutDir",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "update-data": "node scripts/update-dataset.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vercel/node": "^5.8.22",
+    "@vitejs/plugin-react": "^6.0.3",
+    "typescript": "^6.0.3",
+    "vite": "^8.1.3",
+    "vite-plugin-singlefile": "^2.3.3",
+    "vitest": "^4.1.9"
+  }
+}
