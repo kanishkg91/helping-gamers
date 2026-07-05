@@ -7,31 +7,41 @@
         "date": "2024-09-06",
         "title": "Concord: dead in 14 days",
         "detail": "Sony's $40 hero shooter was taken offline two weeks after launch. Refunds were issued; developer Firewalk Studios was closed a month later.",
-        "sources": ["https://en.wikipedia.org/wiki/Concord_(video_game)"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Concord_(video_game)"
+        ]
       },
       {
         "date": "2023-12-01",
         "title": "Tried to delete purchased TV seasons from accounts",
         "detail": "Sony announced that Discovery content players had bought on PlayStation Store would be removed from their libraries due to a licensing change. It reversed course only after public outcry.",
-        "sources": ["https://www.theverge.com/2023/12/21/24011533/sony-discovery-tv-shows-playstation-store-removed-licensing"]
+        "sources": [
+          "https://www.theverge.com/2023/12/21/24011533/sony-discovery-tv-shows-playstation-store-removed-licensing"
+        ]
       },
       {
         "date": "2024-05-03",
         "title": "Helldivers 2 PSN mandate",
         "detail": "Months after launch, Sony tried to force PC players to link PSN accounts — in 177 countries where PSN accounts can't legally be created, making the game they bought unplayable. Reversed after 200,000+ negative reviews.",
-        "sources": ["https://en.wikipedia.org/wiki/Helldivers_2"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Helldivers_2"
+        ]
       },
       {
         "date": "2024-04-30",
         "title": "LittleBigPlanet 3 servers made 'permanently offline'",
         "detail": "A 'temporary' outage was quietly made permanent, cutting access to an estimated 10 million player-created levels built over a decade.",
-        "sources": ["https://en.wikipedia.org/wiki/LittleBigPlanet_3"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/LittleBigPlanet_3"
+        ]
       },
       {
         "date": "2021-03-29",
         "title": "Tried to close the PS3/Vita stores",
         "detail": "Sony announced the closure of PS3 and Vita digital stores — which would have ended access to thousands of digital-only games — then partially reversed after backlash. The PSP store still closed.",
-        "sources": ["https://www.theverge.com/2021/4/19/22392668/sony-playstation-store-ps3-vita-closure-reversal"]
+        "sources": [
+          "https://www.theverge.com/2021/4/19/22392668/sony-playstation-store-ps3-vita-closure-reversal"
+        ]
       }
     ]
   },
@@ -43,25 +53,35 @@
         "date": "2026-01-12",
         "title": "Anthem switched off completely",
         "detail": "The always-online $60 loot shooter became unplayable for everyone — disc owners included. EA shut down at least ten games in 2026 alone.",
-        "sources": ["https://en.wikipedia.org/wiki/Anthem_(video_game)", "https://gamerant.com/list-of-ea-games-shutting-down-soon-2026-plants-vs-zombies-garden-warfare/"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Anthem_(video_game)",
+          "https://gamerant.com/list-of-ea-games-shutting-down-soon-2026-plants-vs-zombies-garden-warfare/"
+        ]
       },
       {
         "date": "2026-06-22",
         "title": "Battlefield Hardline console servers off",
         "detail": "Part of EA's rolling yearly purge of older titles. EA maintains a standing 'Service Updates' page because games dying is routine business.",
-        "sources": ["https://www.ea.com/service-updates", "https://gamerant.com/ea-game-shutting-down-battlefield-hardline-june-22/"]
+        "sources": [
+          "https://www.ea.com/service-updates",
+          "https://gamerant.com/ea-game-shutting-down-battlefield-hardline-june-22/"
+        ]
       },
       {
         "date": "2015-07-14",
         "title": "Four free-to-play games killed in one day",
         "detail": "Need for Speed World, Battlefield Heroes, Battlefield Play4Free and FIFA World were all switched off simultaneously.",
-        "sources": ["https://en.wikipedia.org/wiki/Need_for_Speed:_World"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Need_for_Speed:_World"
+        ]
       },
       {
         "date": "2016-03-01",
         "title": "Darkspore: single-player killed by DRM servers",
         "detail": "A paid single-player game with always-online DRM became permanently unplayable when its authentication servers went dark — a decade-early warning of everything that followed.",
-        "sources": ["https://en.wikipedia.org/wiki/Darkspore"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Darkspore"
+        ]
       }
     ]
   },
@@ -78,25 +98,34 @@
         "date": "2024-03-31",
         "title": "The Crew: killed and revoked",
         "detail": "After nine years, Ubisoft shut The Crew's servers and revoked the licenses from buyers' libraries. In the resulting California lawsuit, Ubisoft's defense argued players had never owned the game — only bought a limited license.",
-        "sources": ["https://en.wikipedia.org/wiki/The_Crew_(video_game)", "https://www.polygon.com/gaming/510164/ubisoft-lawsuit-the-crew-shutdown-license"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/The_Crew_(video_game)",
+          "https://www.polygon.com/gaming/510164/ubisoft-lawsuit-the-crew-shutdown-license"
+        ]
       },
       {
         "date": "2025-06-03",
         "title": "XDefiant dead within a year",
         "detail": "Ubisoft's free-to-play Call of Duty rival was sunset less than seven months after launch and fully off within about a year.",
-        "sources": ["https://en.wikipedia.org/wiki/XDefiant"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/XDefiant"
+        ]
       },
       {
         "date": "2022-09-01",
         "title": "Online services decommissioned for 90+ older games",
         "detail": "A sweeping decommissioning wave ended online play — and in some cases access to purchased DLC — across dozens of legacy Ubisoft titles.",
-        "sources": ["https://www.ubisoft.com/en-us/help/article/000064655"]
+        "sources": [
+          "https://www.ubisoft.com/en-us/help/article/000064655"
+        ]
       },
       {
         "date": "2024-12-12",
         "title": "Offline modes pledged for The Crew 2 and Motorfest",
         "detail": "After the backlash and lawsuit over The Crew, Ubisoft committed to adding offline modes to its sequels — proof that pressure works.",
-        "sources": ["https://www.thecrew-game.com/"]
+        "sources": [
+          "https://www.thecrew-game.com/"
+        ]
       }
     ]
   },
@@ -108,13 +137,17 @@
         "date": "2025-05-30",
         "title": "MultiVersus shut down (twice)",
         "detail": "The platform fighter went dark once as a 'beta', relaunched, then shut down for good a year later. An offline mode preserving owned fighters was its parting gift.",
-        "sources": ["https://en.wikipedia.org/wiki/MultiVersus"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/MultiVersus"
+        ]
       },
       {
         "date": "2025-01-14",
         "title": "Suicide Squad: offline mode shipped at the end",
         "detail": "After launching always-online, Kill the Justice League got an offline mode in its final update — the right ending to the wrong design.",
-        "sources": ["https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League"
+        ]
       }
     ]
   },
@@ -126,13 +159,17 @@
         "date": "2023-02-28",
         "title": "Babylon's Fall: $60, dead in under a year",
         "detail": "The PlatinumGames live-service action game was announced for shutdown five months after release and switched off before its first birthday.",
-        "sources": ["https://en.wikipedia.org/wiki/Babylon%27s_Fall"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Babylon%27s_Fall"
+        ]
       },
       {
         "date": "2023-09-30",
         "title": "Marvel's Avengers delisted",
         "detail": "Support ended and the game was pulled from sale three years after a full-priced live-service launch.",
-        "sources": ["https://en.wikipedia.org/wiki/Marvel%27s_Avengers_(video_game)"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Marvel%27s_Avengers_(video_game)"
+        ]
       }
     ]
   },
@@ -144,19 +181,25 @@
         "date": "2018-04-26",
         "title": "Paragon closed — with full refunds",
         "detail": "Epic killed its MOBA to focus on Fortnite, refunded every purchase, and released $17M of its assets to developers for free. Cited here as the standard others fail to meet.",
-        "sources": ["https://en.wikipedia.org/wiki/Paragon_(video_game)"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Paragon_(video_game)"
+        ]
       },
       {
         "date": "2023-02-28",
         "title": "Rumbleverse dead in six months",
         "detail": "Purchases were refunded when the brawler-royale shut down 201 days after launch.",
-        "sources": ["https://en.wikipedia.org/wiki/Rumbleverse"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Rumbleverse"
+        ]
       },
       {
         "date": "2023-01-24",
         "title": "Classic Unreal and Unreal Tournament delisted, master servers off",
         "detail": "Epic removed the genre-defining classics from sale and shut their master servers; community workarounds keep parts alive.",
-        "sources": ["https://www.pcgamer.com/epic-pulls-unreal-tournament-games-from-stores-and-will-shut-down-online-services/"]
+        "sources": [
+          "https://www.pcgamer.com/epic-pulls-unreal-tournament-games-from-stores-and-will-shut-down-online-services/"
+        ]
       }
     ]
   },
@@ -168,25 +211,33 @@
         "date": "2024-04-08",
         "title": "Wii U and 3DS online services terminated",
         "detail": "Online play, matchmaking and cooperative features ended for two entire console generations at once, affecting hundreds of games.",
-        "sources": ["https://en.wikipedia.org/wiki/Nintendo_Network"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Nintendo_Network"
+        ]
       },
       {
         "date": "2023-03-27",
         "title": "Wii U / 3DS eShops closed",
         "detail": "Over a thousand digital-only games became impossible to buy. Nintendo committed to re-download access only 'for the foreseeable future'.",
-        "sources": ["https://en.wikipedia.org/wiki/Nintendo_eShop"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Nintendo_eShop"
+        ]
       },
       {
         "date": "2025-06-05",
         "title": "Switch 2 'game-key cards'",
         "detail": "Many Switch 2 boxed releases contain no game data — the card is a download key in a box. Physical preservation, hollowed out.",
-        "sources": ["https://en.wikipedia.org/wiki/Nintendo_Switch_2"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        ]
       },
       {
         "date": "2024-11-28",
         "title": "Pocket Camp: the soft landing",
         "detail": "When Animal Crossing: Pocket Camp's servers closed, Nintendo shipped a paid offline version that carries your data over — proof a graceful end is possible when a publisher cares.",
-        "sources": ["https://en.wikipedia.org/wiki/Animal_Crossing:_Pocket_Camp"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Animal_Crossing:_Pocket_Camp"
+        ]
       }
     ]
   },
@@ -198,19 +249,25 @@
         "date": "2024-12-15",
         "title": "Forza Horizon 4 delisted",
         "detail": "The fourth Horizon game in a row removed from sale as music and car licenses expired — a metronome of disappearing racers.",
-        "sources": ["https://en.wikipedia.org/wiki/Forza_Horizon_4"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Forza_Horizon_4"
+        ]
       },
       {
         "date": "2024-07-29",
         "title": "Xbox 360 Store closed",
         "detail": "The digital storefront for an entire console generation shut down; previously purchased content remains re-downloadable, new purchases are gone forever.",
-        "sources": ["https://en.wikipedia.org/wiki/Xbox_Games_Store"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Xbox_Games_Store"
+        ]
       },
       {
         "date": "2024-10-30",
         "title": "Redfall's final update added offline play",
         "detail": "After closing developer Arkane Austin, Microsoft at least shipped an update making Redfall playable offline forever. The bar is on the floor; this cleared it.",
-        "sources": ["https://en.wikipedia.org/wiki/Redfall"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Redfall"
+        ]
       }
     ]
   },
@@ -222,25 +279,33 @@
         "date": "2022-10-04",
         "title": "Overwatch 1: overwritten, not shut down",
         "detail": "The $40 game roughly 50 million people bought was replaced in place by a free-to-play sequel. There is no way to play the product that was sold.",
-        "sources": ["https://en.wikipedia.org/wiki/Overwatch_(video_game)"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Overwatch_(video_game)"
+        ]
       },
       {
         "date": "2026-05-18",
         "title": "Warzone Mobile sunset",
         "detail": "The mobile battle royale was switched off barely two years after launch.",
-        "sources": ["https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone_Mobile"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone_Mobile"
+        ]
       },
       {
         "date": "2020-01-28",
         "title": "Warcraft III: Reforged replaced the classic client",
         "detail": "The remaster overwrote the original game's client and removed features it had shipped with for 18 years, breaking promises made at announcement.",
-        "sources": ["https://en.wikipedia.org/wiki/Warcraft_III:_Reforged"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Warcraft_III:_Reforged"
+        ]
       },
       {
         "date": "2023-01-23",
         "title": "Spellbreak shut down after Proletariat acqui-hire",
         "detail": "Blizzard bought the studio to work on World of Warcraft; the battle-royale it was running was closed.",
-        "sources": ["https://en.wikipedia.org/wiki/Spellbreak"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Spellbreak"
+        ]
       }
     ]
   },
@@ -252,237 +317,485 @@
         "date": "2026-01-05",
         "title": "WWE 2K24 servers off after ~22 months",
         "detail": "2K's standing pattern: annual sports titles lose their online modes — and server-dependent single-player modes like MyCareer — roughly two years after you pay $70.",
-        "sources": ["https://en.wikipedia.org/wiki/WWE_2K24"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/WWE_2K24"
+        ]
       },
       {
         "date": "2021-01-25",
         "title": "Battleborn erased",
         "detail": "The $60 hero shooter became fully unplayable, campaign included.",
-        "sources": ["https://en.wikipedia.org/wiki/Battleborn_(video_game)"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Battleborn_(video_game)"
+        ]
       },
       {
         "date": "2021-12-16",
         "title": "GTA Online closed on PS3/Xbox 360",
         "detail": "The era's biggest online game ended for the consoles it launched on.",
-        "sources": ["https://en.wikipedia.org/wiki/Grand_Theft_Auto_Online"]
+        "sources": [
+          "https://en.wikipedia.org/wiki/Grand_Theft_Auto_Online"
+        ]
       }
     ]
   },
-  { "id": "krafton", "name": "Krafton", "rapSheet": [
-    {
-      "date": "2026-03-30",
-      "title": "PUBG: Blindspot dead in 8 weeks",
-      "detail": "The early-access spin-off launched February 4, 2026 and was gone by March 30.",
-      "sources": ["https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"]
-    }
-  ] },
-  { "id": "amazon", "name": "Amazon Games", "rapSheet": [
-    {
-      "date": "2020-11-09",
-      "title": "Crucible un-launched, then killed",
-      "detail": "Amazon's debut shooter went back to closed beta within two months of launch and was cancelled within six.",
-      "sources": ["https://en.wikipedia.org/wiki/Crucible_(video_game)"]
-    },
-    {
-      "date": "2026-03-02",
-      "title": "King of Meat shut down within a year",
-      "detail": "The co-op dungeon brawler was switched off months after release.",
-      "sources": ["https://en.wikipedia.org/wiki/King_of_Meat"]
-    }
-  ] },
-  { "id": "meta", "name": "Meta", "rapSheet": [
-    {
-      "date": "2023-08-01",
-      "title": "Echo VR switched off",
-      "detail": "VR's defining social sport was shut down despite tens of thousands of signatures and an offer from the community to run it themselves.",
-      "sources": ["https://en.wikipedia.org/wiki/Lone_Echo"]
-    }
-  ] },
-  { "id": "nexon", "name": "Nexon (incl. Embark Studios)", "rapSheet": [
-    {
-      "date": "2018-09-14",
-      "title": "LawBreakers dead in 13 months",
-      "detail": "The $30 arena shooter shut down with no offline option.",
-      "sources": ["https://en.wikipedia.org/wiki/LawBreakers"]
-    },
-    {
-      "date": "2023-03-31",
-      "title": "Original KartRider killed after 19 years",
-      "detail": "The long-running racer was closed to push players to its successor.",
-      "sources": ["https://en.wikipedia.org/wiki/Crazyracing_Kartrider"]
-    }
-  ] },
-  { "id": "ncsoft", "name": "NCSoft", "rapSheet": [
-    {
-      "date": "2012-11-30",
-      "title": "City of Heroes closed while profitable",
-      "detail": "The beloved superhero MMO was shut down abruptly. Twelve years later NCSoft finally licensed the community's resurrected servers.",
-      "sources": ["https://en.wikipedia.org/wiki/City_of_Heroes"]
-    },
-    {
-      "date": "2018-11-28",
-      "title": "WildStar erased",
-      "detail": "Every character, world and purchase gone.",
-      "sources": ["https://en.wikipedia.org/wiki/WildStar_(video_game)"]
-    }
-  ] },
-  { "id": "disney", "name": "Disney", "rapSheet": [
-    {
-      "date": "2017-03-30",
-      "title": "Club Penguin closed",
-      "detail": "The kids' MMO with hundreds of millions of registered accounts was shut to push a mobile replacement — which itself died the following year.",
-      "sources": ["https://en.wikipedia.org/wiki/Club_Penguin"]
-    },
-    {
-      "date": "2016-05-10",
-      "title": "Disney Infinity cancelled",
-      "detail": "Disney exited games publishing, orphaning a toys-to-life platform families had spent an estimated $1.5 billion on. PC and mobile versions were switched off entirely.",
-      "sources": ["https://en.wikipedia.org/wiki/Disney_Infinity"]
-    }
-  ] },
-  { "id": "hoyoverse", "name": "HoYoverse", "rapSheet": [
-    {
-      "date": "2026-02-11",
-      "title": "Genshin Impact ended PS4 support",
-      "detail": "The PS4 version was sunset; account progression carries forward only on newer hardware.",
-      "sources": ["https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"]
-    }
-  ] },
-  { "id": "valve", "name": "Valve", "rapSheet": [
-    {
-      "date": "2023-09-27",
-      "title": "CS:GO replaced in place by Counter-Strike 2",
-      "detail": "The game 25 million people played was overwritten overnight. A limited legacy branch exists without official matchmaking.",
-      "sources": ["https://en.wikipedia.org/wiki/Counter-Strike_2"]
-    },
-    {
-      "date": "2012-08-01",
-      "title": "Steam Subscriber Agreement: you buy licenses, not games",
-      "detail": "Steam's own terms say purchases are 'subscriptions' with no ownership right. In 2024, California law forced storefronts to start admitting this at checkout.",
-      "sources": ["https://store.steampowered.com/subscriber_agreement/"]
-    }
-  ] },
-  { "id": "wildlight", "name": "Wildlight", "rapSheet": [
-    {
-      "date": "2026-03-12",
-      "title": "Highguard dead in six weeks",
-      "detail": "2 million players at launch in late January 2026; funding pulled; servers off March 12. One of the shortest-lived major releases ever.",
-      "sources": ["https://www.pushsquare.com/news/2026/03/highguard-permanently-shuts-down-on-12th-march"]
-    }
-  ] },
-  { "id": "bungie", "name": "Bungie", "rapSheet": [
-    {
-      "date": "2020-11-10",
-      "title": "Destiny 2 'Content Vault' removed paid campaigns",
-      "detail": "Entire expansions players paid for — including the base campaign — were deleted from the live game. The purchases were not refunded.",
-      "sources": ["https://en.wikipedia.org/wiki/Destiny_2"]
-    }
-  ] },
-  { "id": "fntastic", "name": "Fntastic / Mytona", "rapSheet": [
-    {
-      "date": "2024-01-22",
-      "title": "The Day Before: 46 days",
-      "detail": "Steam's most-wishlisted game shut down 46 days after launch; the studio announced its own closure four days in. Steam refunded broadly.",
-      "sources": ["https://en.wikipedia.org/wiki/The_Day_Before"]
-    }
-  ] },
-  { "id": "bandai-namco", "name": "Bandai Namco", "rapSheet": [
-    {
-      "date": "2023-11-29",
-      "title": "Gundam Evolution dead in 14 months",
-      "detail": "The free-to-play hero shooter was switched off just over a year after launch.",
-      "sources": ["https://en.wikipedia.org/wiki/Gundam_Evolution"]
-    }
-  ] },
-  { "id": "konami", "name": "Konami", "rapSheet": [
-    {
-      "date": "2015-04-29",
-      "title": "P.T. erased from existence",
-      "detail": "The 'Playable Teaser' was delisted and made un-redownloadable. Consoles with it installed became collector's items.",
-      "sources": ["https://en.wikipedia.org/wiki/P.T._(video_game)"]
-    },
-    {
-      "date": "2021-09-30",
-      "title": "PES replaced by free-to-play eFootball",
-      "detail": "A 26-year-old paid franchise ended; its live-service replacement launched broken and wiped the old games' relevance overnight.",
-      "sources": ["https://en.wikipedia.org/wiki/EFootball"]
-    }
-  ] },
-  { "id": "daybreak", "name": "Daybreak (formerly Sony Online Entertainment)", "rapSheet": [
-    {
-      "date": "2011-12-15",
-      "title": "Star Wars Galaxies closed",
-      "detail": "Shut down ahead of The Old Republic's launch; a generation's characters and cities deleted.",
-      "sources": ["https://en.wikipedia.org/wiki/Star_Wars_Galaxies"]
-    }
-  ] },
-  { "id": "smilegate", "name": "Smilegate", "rapSheet": [
-    {
-      "date": "2023-05-18",
-      "title": "CrossfireX shut down — paid campaign included",
-      "detail": "The Remedy-developed single-player episodes people bought became permanently unplayable 15 months after launch.",
-      "sources": ["https://en.wikipedia.org/wiki/CrossfireX"]
-    }
-  ] },
-  { "id": "gamigo", "name": "Gamigo (formerly Trion Worlds)", "rapSheet": [
-    {
-      "date": "2021-04-29",
-      "title": "Defiance and Defiance 2050 killed the same day",
-      "detail": "Both versions of the sci-fi shooter MMO went dark together.",
-      "sources": ["https://en.wikipedia.org/wiki/Defiance_(video_game)"]
-    }
-  ] },
-  { "id": "perfect-world", "name": "Perfect World Entertainment", "rapSheet": [
-    {
-      "date": "2018-07-31",
-      "title": "Gigantic dead after a year",
-      "detail": "Later resurrected by different hands in 2024 as a paid, offline-capable re-release — dead games can come back when someone cares.",
-      "sources": ["https://en.wikipedia.org/wiki/Gigantic_(video_game)"]
-    }
-  ] },
-  { "id": "bossa", "name": "Bossa Studios", "rapSheet": [] },
-  { "id": "cold-iron", "name": "Cold Iron Studios", "rapSheet": [] },
-  { "id": "riot", "name": "Riot Games", "rapSheet": [] },
-  { "id": "netease", "name": "NetEase Games", "rapSheet": [] },
-  { "id": "capcom", "name": "Capcom", "rapSheet": [
-    {
-      "date": "2024-01-09",
-      "title": "DRM retrofitted onto old games",
-      "detail": "Capcom added new DRM to years-old PC titles, breaking mods and, briefly, the games themselves — a reminder that a storefront copy can change under you.",
-      "sources": ["https://www.pcgamer.com/capcom-adds-drm-to-old-games/"]
-    }
-  ] },
-  { "id": "cdpr", "name": "CD Projekt", "rapSheet": [] },
-  { "id": "larian", "name": "Larian Studios", "rapSheet": [] },
-  { "id": "grinding-gear", "name": "Grinding Gear Games", "rapSheet": [] },
-  { "id": "battlestate", "name": "Battlestate Games", "rapSheet": [] },
-  { "id": "behaviour", "name": "Behaviour Interactive", "rapSheet": [] },
-  { "id": "digital-extremes", "name": "Digital Extremes", "rapSheet": [] },
-  { "id": "hello-games", "name": "Hello Games", "rapSheet": [] },
-  { "id": "coffee-stain", "name": "Coffee Stain Publishing", "rapSheet": [] },
-  { "id": "pocketpair", "name": "Pocketpair", "rapSheet": [] },
-  { "id": "facepunch", "name": "Facepunch Studios", "rapSheet": [] },
-  { "id": "kinetic-games", "name": "Kinetic Games", "rapSheet": [] },
-  { "id": "innersloth", "name": "Innersloth", "rapSheet": [] },
-  { "id": "roblox-corp", "name": "Roblox Corporation", "rapSheet": [] },
-  { "id": "supergiant", "name": "Supergiant Games", "rapSheet": [] },
-  { "id": "concernedape", "name": "ConcernedApe", "rapSheet": [] },
-  { "id": "team-cherry", "name": "Team Cherry", "rapSheet": [] },
-  { "id": "re-logic", "name": "Re-Logic", "rapSheet": [] },
-  { "id": "wube", "name": "Wube Software", "rapSheet": [] },
-  { "id": "ludeon", "name": "Ludeon Studios", "rapSheet": [] },
-  { "id": "playstack", "name": "Playstack", "rapSheet": [] },
-  { "id": "poncle", "name": "Poncle", "rapSheet": [] },
-  { "id": "game-science", "name": "Game Science", "rapSheet": [] },
-  { "id": "kepler", "name": "Kepler Interactive", "rapSheet": [] },
-  { "id": "plaion", "name": "Plaion (Deep Silver)", "rapSheet": [] },
-  { "id": "gsc-game-world", "name": "GSC Game World", "rapSheet": [] },
-  { "id": "airship-syndicate", "name": "Airship Syndicate", "rapSheet": [
-    {
-      "date": "2024-06-11",
-      "title": "Wayfinder went from online-only to fully offline",
-      "detail": "After its publisher walked away, the developer bought the game back and rebuilt it as an offline single-player title instead of shutting it down. It can be done.",
-      "sources": ["https://en.wikipedia.org/wiki/Wayfinder_(video_game)"]
-    }
-  ] }
+  {
+    "id": "krafton",
+    "name": "Krafton",
+    "rapSheet": [
+      {
+        "date": "2026-03-30",
+        "title": "PUBG: Blindspot dead in 8 weeks",
+        "detail": "The early-access spin-off launched February 4, 2026 and was gone by March 30.",
+        "sources": [
+          "https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon Games",
+    "rapSheet": [
+      {
+        "date": "2020-11-09",
+        "title": "Crucible un-launched, then killed",
+        "detail": "Amazon's debut shooter went back to closed beta within two months of launch and was cancelled within six.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Crucible_(video_game)"
+        ]
+      },
+      {
+        "date": "2026-03-02",
+        "title": "King of Meat shut down within a year",
+        "detail": "The co-op dungeon brawler was switched off months after release.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/King_of_Meat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "rapSheet": [
+      {
+        "date": "2023-08-01",
+        "title": "Echo VR switched off",
+        "detail": "VR's defining social sport was shut down despite tens of thousands of signatures and an offer from the community to run it themselves.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lone_Echo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nexon",
+    "name": "Nexon (incl. Embark Studios)",
+    "rapSheet": [
+      {
+        "date": "2018-09-14",
+        "title": "LawBreakers dead in 13 months",
+        "detail": "The $30 arena shooter shut down with no offline option.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/LawBreakers"
+        ]
+      },
+      {
+        "date": "2023-03-31",
+        "title": "Original KartRider killed after 19 years",
+        "detail": "The long-running racer was closed to push players to its successor.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Crazyracing_Kartrider"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ncsoft",
+    "name": "NCSoft",
+    "rapSheet": [
+      {
+        "date": "2012-11-30",
+        "title": "City of Heroes closed while profitable",
+        "detail": "The beloved superhero MMO was shut down abruptly. Twelve years later NCSoft finally licensed the community's resurrected servers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/City_of_Heroes"
+        ]
+      },
+      {
+        "date": "2018-11-28",
+        "title": "WildStar erased",
+        "detail": "Every character, world and purchase gone.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/WildStar_(video_game)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "disney",
+    "name": "Disney",
+    "rapSheet": [
+      {
+        "date": "2017-03-30",
+        "title": "Club Penguin closed",
+        "detail": "The kids' MMO with hundreds of millions of registered accounts was shut to push a mobile replacement — which itself died the following year.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Club_Penguin"
+        ]
+      },
+      {
+        "date": "2016-05-10",
+        "title": "Disney Infinity cancelled",
+        "detail": "Disney exited games publishing, orphaning a toys-to-life platform families had spent an estimated $1.5 billion on. PC and mobile versions were switched off entirely.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Disney_Infinity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoyoverse",
+    "name": "HoYoverse",
+    "rapSheet": [
+      {
+        "date": "2026-02-11",
+        "title": "Genshin Impact ended PS4 support",
+        "detail": "The PS4 version was sunset; account progression carries forward only on newer hardware.",
+        "sources": [
+          "https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "valve",
+    "name": "Valve",
+    "rapSheet": [
+      {
+        "date": "2023-09-27",
+        "title": "CS:GO replaced in place by Counter-Strike 2",
+        "detail": "The game 25 million people played was overwritten overnight. A limited legacy branch exists without official matchmaking.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Counter-Strike_2"
+        ]
+      },
+      {
+        "date": "2012-08-01",
+        "title": "Steam Subscriber Agreement: you buy licenses, not games",
+        "detail": "Steam's own terms say purchases are 'subscriptions' with no ownership right. In 2024, California law forced storefronts to start admitting this at checkout.",
+        "sources": [
+          "https://store.steampowered.com/subscriber_agreement/"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wildlight",
+    "name": "Wildlight",
+    "rapSheet": [
+      {
+        "date": "2026-03-12",
+        "title": "Highguard dead in six weeks",
+        "detail": "2 million players at launch in late January 2026; funding pulled; servers off March 12. One of the shortest-lived major releases ever.",
+        "sources": [
+          "https://www.pushsquare.com/news/2026/03/highguard-permanently-shuts-down-on-12th-march"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bungie",
+    "name": "Bungie",
+    "rapSheet": [
+      {
+        "date": "2020-11-10",
+        "title": "Destiny 2 'Content Vault' removed paid campaigns",
+        "detail": "Entire expansions players paid for — including the base campaign — were deleted from the live game. The purchases were not refunded.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Destiny_2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fntastic",
+    "name": "Fntastic / Mytona",
+    "rapSheet": [
+      {
+        "date": "2024-01-22",
+        "title": "The Day Before: 46 days",
+        "detail": "Steam's most-wishlisted game shut down 46 days after launch; the studio announced its own closure four days in. Steam refunded broadly.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/The_Day_Before"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bandai-namco",
+    "name": "Bandai Namco",
+    "rapSheet": [
+      {
+        "date": "2023-11-29",
+        "title": "Gundam Evolution dead in 14 months",
+        "detail": "The free-to-play hero shooter was switched off just over a year after launch.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gundam_Evolution"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "konami",
+    "name": "Konami",
+    "rapSheet": [
+      {
+        "date": "2015-04-29",
+        "title": "P.T. erased from existence",
+        "detail": "The 'Playable Teaser' was delisted and made un-redownloadable. Consoles with it installed became collector's items.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/P.T._(video_game)"
+        ]
+      },
+      {
+        "date": "2021-09-30",
+        "title": "PES replaced by free-to-play eFootball",
+        "detail": "A 26-year-old paid franchise ended; its live-service replacement launched broken and wiped the old games' relevance overnight.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/EFootball"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "daybreak",
+    "name": "Daybreak (formerly Sony Online Entertainment)",
+    "rapSheet": [
+      {
+        "date": "2011-12-15",
+        "title": "Star Wars Galaxies closed",
+        "detail": "Shut down ahead of The Old Republic's launch; a generation's characters and cities deleted.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Star_Wars_Galaxies"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "smilegate",
+    "name": "Smilegate",
+    "rapSheet": [
+      {
+        "date": "2023-05-18",
+        "title": "CrossfireX shut down — paid campaign included",
+        "detail": "The Remedy-developed single-player episodes people bought became permanently unplayable 15 months after launch.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/CrossfireX"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gamigo",
+    "name": "Gamigo (formerly Trion Worlds)",
+    "rapSheet": [
+      {
+        "date": "2021-04-29",
+        "title": "Defiance and Defiance 2050 killed the same day",
+        "detail": "Both versions of the sci-fi shooter MMO went dark together.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Defiance_(video_game)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "perfect-world",
+    "name": "Perfect World Entertainment",
+    "rapSheet": [
+      {
+        "date": "2018-07-31",
+        "title": "Gigantic dead after a year",
+        "detail": "Later resurrected by different hands in 2024 as a paid, offline-capable re-release — dead games can come back when someone cares.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gigantic_(video_game)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bossa",
+    "name": "Bossa Studios",
+    "rapSheet": []
+  },
+  {
+    "id": "cold-iron",
+    "name": "Cold Iron Studios",
+    "rapSheet": []
+  },
+  {
+    "id": "riot",
+    "name": "Riot Games",
+    "rapSheet": []
+  },
+  {
+    "id": "netease",
+    "name": "NetEase Games",
+    "rapSheet": []
+  },
+  {
+    "id": "capcom",
+    "name": "Capcom",
+    "rapSheet": [
+      {
+        "date": "2024-01-09",
+        "title": "DRM retrofitted onto old games",
+        "detail": "Capcom added new DRM to years-old PC titles, breaking mods and, briefly, the games themselves — a reminder that a storefront copy can change under you.",
+        "sources": [
+          "https://www.pcgamer.com/capcom-adds-drm-to-old-games/"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cdpr",
+    "name": "CD Projekt",
+    "rapSheet": []
+  },
+  {
+    "id": "larian",
+    "name": "Larian Studios",
+    "rapSheet": []
+  },
+  {
+    "id": "grinding-gear",
+    "name": "Grinding Gear Games",
+    "rapSheet": []
+  },
+  {
+    "id": "battlestate",
+    "name": "Battlestate Games",
+    "rapSheet": []
+  },
+  {
+    "id": "behaviour",
+    "name": "Behaviour Interactive",
+    "rapSheet": []
+  },
+  {
+    "id": "digital-extremes",
+    "name": "Digital Extremes",
+    "rapSheet": []
+  },
+  {
+    "id": "hello-games",
+    "name": "Hello Games",
+    "rapSheet": []
+  },
+  {
+    "id": "coffee-stain",
+    "name": "Coffee Stain Publishing",
+    "rapSheet": []
+  },
+  {
+    "id": "pocketpair",
+    "name": "Pocketpair",
+    "rapSheet": []
+  },
+  {
+    "id": "facepunch",
+    "name": "Facepunch Studios",
+    "rapSheet": []
+  },
+  {
+    "id": "kinetic-games",
+    "name": "Kinetic Games",
+    "rapSheet": []
+  },
+  {
+    "id": "innersloth",
+    "name": "Innersloth",
+    "rapSheet": []
+  },
+  {
+    "id": "roblox-corp",
+    "name": "Roblox Corporation",
+    "rapSheet": []
+  },
+  {
+    "id": "supergiant",
+    "name": "Supergiant Games",
+    "rapSheet": []
+  },
+  {
+    "id": "concernedape",
+    "name": "ConcernedApe",
+    "rapSheet": []
+  },
+  {
+    "id": "team-cherry",
+    "name": "Team Cherry",
+    "rapSheet": []
+  },
+  {
+    "id": "re-logic",
+    "name": "Re-Logic",
+    "rapSheet": []
+  },
+  {
+    "id": "wube",
+    "name": "Wube Software",
+    "rapSheet": []
+  },
+  {
+    "id": "ludeon",
+    "name": "Ludeon Studios",
+    "rapSheet": []
+  },
+  {
+    "id": "playstack",
+    "name": "Playstack",
+    "rapSheet": []
+  },
+  {
+    "id": "poncle",
+    "name": "Poncle",
+    "rapSheet": []
+  },
+  {
+    "id": "game-science",
+    "name": "Game Science",
+    "rapSheet": []
+  },
+  {
+    "id": "kepler",
+    "name": "Kepler Interactive",
+    "rapSheet": []
+  },
+  {
+    "id": "plaion",
+    "name": "Plaion (Deep Silver)",
+    "rapSheet": []
+  },
+  {
+    "id": "gsc-game-world",
+    "name": "GSC Game World",
+    "rapSheet": []
+  },
+  {
+    "id": "airship-syndicate",
+    "name": "Airship Syndicate",
+    "rapSheet": [
+      {
+        "date": "2024-06-11",
+        "title": "Wayfinder went from online-only to fully offline",
+        "detail": "After its publisher walked away, the developer bought the game back and rebuilt it as an offline single-player title instead of shutting it down. It can be done.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Wayfinder_(video_game)"
+        ]
+      }
+    ]
+  }
 ]

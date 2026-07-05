@@ -9,7 +9,10 @@
     "refunds": "30 days, even after downloading and playing — the most generous refund window in the industry.",
     "offlineStory": "Everything works offline by definition. GOG Galaxy is optional.",
     "incidents": [],
-    "sources": ["https://www.gog.com/en/about_gog", "https://support.gog.com/hc/en-us/articles/4408556622877"]
+    "sources": [
+      "https://www.gog.com/en/about_gog",
+      "https://support.gog.com/hc/en-us/articles/4408556622877"
+    ]
   },
   {
     "id": "steam",
@@ -21,10 +24,20 @@
     "refunds": "Under 2 hours played and within 14 days, largely automatic. Better than consoles, worse than GOG.",
     "offlineStory": "Offline mode works for most games but needs periodic re-authentication, and DRM-heavy titles ignore it. Valve keeps most delisted games playable — its long-term record here is genuinely good.",
     "incidents": [
-      { "date": "2023-09-27", "text": "Replaced CS:GO — a game 25 million people played — in place with Counter-Strike 2.", "source": "https://en.wikipedia.org/wiki/Counter-Strike_2" },
-      { "date": "2024-10-11", "text": "Started showing 'you are buying a license, not a game' at checkout after California's AB 2426.", "source": "https://www.theverge.com/2024/10/11/24267678/steam-purchase-license-disclaimer-california-ab-2426" }
+      {
+        "date": "2023-09-27",
+        "text": "Replaced CS:GO — a game 25 million people played — in place with Counter-Strike 2.",
+        "source": "https://en.wikipedia.org/wiki/Counter-Strike_2"
+      },
+      {
+        "date": "2024-10-11",
+        "text": "Started showing 'you are buying a license, not a game' at checkout after California's AB 2426.",
+        "source": "https://www.theverge.com/2024/10/11/24267678/steam-purchase-license-disclaimer-california-ab-2426"
+      }
     ],
-    "sources": ["https://store.steampowered.com/subscriber_agreement/"]
+    "sources": [
+      "https://store.steampowered.com/subscriber_agreement/"
+    ]
   },
   {
     "id": "epic-games-store",
@@ -36,9 +49,15 @@
     "refunds": "14 days / under 2 hours, similar to Steam. Self-refund flow exists.",
     "offlineStory": "Many titles work offline, but the launcher's offline mode is notoriously flaky, and some giveaways carry third-party DRM anyway.",
     "incidents": [
-      { "date": "2018-04-26", "text": "When Epic killed Paragon it refunded every purchase — and did the same for Rumbleverse in 2023.", "source": "https://en.wikipedia.org/wiki/Paragon_(video_game)" }
+      {
+        "date": "2018-04-26",
+        "text": "When Epic killed Paragon it refunded every purchase — and did the same for Rumbleverse in 2023.",
+        "source": "https://en.wikipedia.org/wiki/Paragon_(video_game)"
+      }
     ],
-    "sources": ["https://www.epicgames.com/site/en-US/store-eula"]
+    "sources": [
+      "https://www.epicgames.com/site/en-US/store-eula"
+    ]
   },
   {
     "id": "playstation",
@@ -50,11 +69,25 @@
     "refunds": "14 days — but only if you haven't downloaded or streamed the content. Downloading it, which the console often does automatically, voids the refund. Among the most hostile refund policies in gaming.",
     "offlineStory": "Digital games need periodic license validation; one console can be 'primary' for offline play. Disc games mostly work offline — when the disc actually contains the game.",
     "incidents": [
-      { "date": "2023-12-01", "text": "Announced deletion of purchased Discovery content from user libraries; reversed after public outcry.", "source": "https://www.theverge.com/2023/12/21/24011533/sony-discovery-tv-shows-playstation-store-removed-licensing" },
-      { "date": "2021-03-29", "text": "Tried to close the PS3/Vita stores, which would have stranded thousands of digital-only games; partially reversed.", "source": "https://www.theverge.com/2021/4/19/22392668/sony-playstation-store-ps3-vita-closure-reversal" },
-      { "date": "2024-09-06", "text": "Concord: bought copies became unplayable 14 days after launch (fully refunded).", "source": "https://en.wikipedia.org/wiki/Concord_(video_game)" }
+      {
+        "date": "2023-12-01",
+        "text": "Announced deletion of purchased Discovery content from user libraries; reversed after public outcry.",
+        "source": "https://www.theverge.com/2023/12/21/24011533/sony-discovery-tv-shows-playstation-store-removed-licensing"
+      },
+      {
+        "date": "2021-03-29",
+        "text": "Tried to close the PS3/Vita stores, which would have stranded thousands of digital-only games; partially reversed.",
+        "source": "https://www.theverge.com/2021/4/19/22392668/sony-playstation-store-ps3-vita-closure-reversal"
+      },
+      {
+        "date": "2024-09-06",
+        "text": "Concord: bought copies became unplayable 14 days after launch (fully refunded).",
+        "source": "https://en.wikipedia.org/wiki/Concord_(video_game)"
+      }
     ],
-    "sources": ["https://www.playstation.com/en-us/legal/psn-terms-of-service/"]
+    "sources": [
+      "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+    ]
   },
   {
     "id": "xbox",
@@ -66,10 +99,20 @@
     "refunds": "14-day self-service refunds that are generally more forgiving than Sony's; still discretionary.",
     "offlineStory": "One console can be your 'home' Xbox for offline play of digital titles. Game Pass titles are rentals by design — a fifth of your library can leave every month.",
     "incidents": [
-      { "date": "2024-07-29", "text": "Closed the Xbox 360 Store, ending new purchases for a whole generation's catalog.", "source": "https://en.wikipedia.org/wiki/Xbox_Games_Store" },
-      { "date": "2024-12-15", "text": "Forza Horizon 4 delisted with all DLC — the fourth Horizon in a row to vanish from sale.", "source": "https://en.wikipedia.org/wiki/Forza_Horizon_4" }
+      {
+        "date": "2024-07-29",
+        "text": "Closed the Xbox 360 Store, ending new purchases for a whole generation's catalog.",
+        "source": "https://en.wikipedia.org/wiki/Xbox_Games_Store"
+      },
+      {
+        "date": "2024-12-15",
+        "text": "Forza Horizon 4 delisted with all DLC — the fourth Horizon in a row to vanish from sale.",
+        "source": "https://en.wikipedia.org/wiki/Forza_Horizon_4"
+      }
     ],
-    "sources": ["https://www.microsoft.com/en-us/servicesagreement"]
+    "sources": [
+      "https://www.microsoft.com/en-us/servicesagreement"
+    ]
   },
   {
     "id": "nintendo",
@@ -81,11 +124,25 @@
     "refunds": "Effectively none. All sales final except where local law forces otherwise. Pre-orders can't be cancelled in the final 7 days.",
     "offlineStory": "Cartridge games with the full game on-card work forever — the gold standard. But 'game-key cards' on Switch 2 are download codes in a box, and digital titles need periodic online checks if you use multiple consoles.",
     "incidents": [
-      { "date": "2023-03-27", "text": "Closed the Wii U and 3DS eShops, stranding 1,000+ digital-only titles.", "source": "https://en.wikipedia.org/wiki/Nintendo_eShop" },
-      { "date": "2024-04-08", "text": "Terminated online services for every Wii U and 3DS game at once.", "source": "https://en.wikipedia.org/wiki/Nintendo_Network" },
-      { "date": "2025-06-05", "text": "Launched Switch 2 with 'game-key cards' — physical boxes containing no game.", "source": "https://en.wikipedia.org/wiki/Nintendo_Switch_2" }
+      {
+        "date": "2023-03-27",
+        "text": "Closed the Wii U and 3DS eShops, stranding 1,000+ digital-only titles.",
+        "source": "https://en.wikipedia.org/wiki/Nintendo_eShop"
+      },
+      {
+        "date": "2024-04-08",
+        "text": "Terminated online services for every Wii U and 3DS game at once.",
+        "source": "https://en.wikipedia.org/wiki/Nintendo_Network"
+      },
+      {
+        "date": "2025-06-05",
+        "text": "Launched Switch 2 with 'game-key cards' — physical boxes containing no game.",
+        "source": "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+      }
     ],
-    "sources": ["https://www.nintendo.com/us/terms-of-use/"]
+    "sources": [
+      "https://www.nintendo.com/us/terms-of-use/"
+    ]
   },
   {
     "id": "ea-app",
@@ -97,9 +154,15 @@
     "refunds": "24 hours after first launch, 14 days from purchase — one of the tighter windows, self-service where available.",
     "offlineStory": "An offline mode exists but many titles phone home anyway, and EA's own service-updates page is a running list of games it has switched off.",
     "incidents": [
-      { "date": "2026-01-12", "text": "Anthem switched off — one of ten EA games shut down in 2026 alone.", "source": "https://www.ea.com/service-updates" }
+      {
+        "date": "2026-01-12",
+        "text": "Anthem switched off — one of ten EA games shut down in 2026 alone.",
+        "source": "https://www.ea.com/service-updates"
+      }
     ],
-    "sources": ["https://www.ea.com/legal/user-agreement"]
+    "sources": [
+      "https://www.ea.com/legal/user-agreement"
+    ]
   },
   {
     "id": "physical",
@@ -111,8 +174,14 @@
     "refunds": "Standard retail return policies — and a resale market digital stores will never allow.",
     "offlineStory": "Check before you buy: 'game-key card' or 'download required' on the box means the physical copy preserves nothing. Complete-on-media releases (most Nintendo carts, some PS5 discs, boutique labels like Limited Run) are the real thing.",
     "incidents": [
-      { "date": "2026-01-12", "text": "Anthem discs became unplayable — physical media is only as durable as the servers behind it.", "source": "https://en.wikipedia.org/wiki/Anthem_(video_game)" }
+      {
+        "date": "2026-01-12",
+        "text": "Anthem discs became unplayable — physical media is only as durable as the servers behind it.",
+        "source": "https://en.wikipedia.org/wiki/Anthem_(video_game)"
+      }
     ],
-    "sources": ["https://en.wikipedia.org/wiki/First-sale_doctrine"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/First-sale_doctrine"
+    ]
   }
 ]

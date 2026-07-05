@@ -1,2545 +1,2545 @@
 [
- {
-  "id": "aliens-fireteam-elite",
-  "title": "Aliens: Fireteam Elite",
-  "year": 2021,
-  "publisherId": "cold-iron",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 40,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "none",
-  "physical": true,
-  "physicalComplete": false,
-  "shutdown": {
-   "announced": "2026-05-01",
-   "date": "2026-08-05",
-   "note": "Announced to become completely unplayable — co-op campaign included — on August 5, 2026."
+  {
+    "id": "aliens-fireteam-elite",
+    "title": "Aliens: Fireteam Elite",
+    "year": 2021,
+    "publisherId": "cold-iron",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 40,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "none",
+    "physical": true,
+    "physicalComplete": false,
+    "shutdown": {
+      "announced": "2026-05-01",
+      "date": "2026-08-05",
+      "note": "Announced to become completely unplayable — co-op campaign included — on August 5, 2026."
+    },
+    "notes": "A paid co-op campaign that dies with its servers: the exact failure mode the Stop Killing Games movement exists to stop.",
+    "sources": [
+      "https://gamerant.com/games-shutting-down-2026/",
+      "https://en.wikipedia.org/wiki/Aliens:_Fireteam_Elite"
+    ]
   },
-  "notes": "A paid co-op campaign that dies with its servers: the exact failure mode the Stop Killing Games movement exists to stop.",
-  "sources": [
-   "https://gamerant.com/games-shutting-down-2026/",
-   "https://en.wikipedia.org/wiki/Aliens:_Fireteam_Elite"
-  ]
- },
- {
-  "id": "nhl-22",
-  "title": "NHL 22",
-  "year": 2021,
-  "publisherId": "ea",
-  "platforms": [
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "shutdown": {
-   "announced": "2026-06-01",
-   "date": "2026-08-31",
-   "note": "Online modes end August 31, 2026 on all consoles; offline exhibition play survives."
+  {
+    "id": "nhl-22",
+    "title": "NHL 22",
+    "year": 2021,
+    "publisherId": "ea",
+    "platforms": [
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "shutdown": {
+      "announced": "2026-06-01",
+      "date": "2026-08-31",
+      "note": "Online modes end August 31, 2026 on all consoles; offline exhibition play survives."
+    },
+    "notes": "EA's Service Updates page is a rolling obituary column — NHL 22 and NHL 23 die the same day.",
+    "sources": [
+      "https://www.ea.com/service-updates",
+      "https://gamerant.com/games-shutting-down-2026/"
+    ]
   },
-  "notes": "EA's Service Updates page is a rolling obituary column — NHL 22 and NHL 23 die the same day.",
-  "sources": [
-   "https://www.ea.com/service-updates",
-   "https://gamerant.com/games-shutting-down-2026/"
-  ]
- },
- {
-  "id": "nhl-23",
-  "title": "NHL 23",
-  "year": 2022,
-  "publisherId": "ea",
-  "platforms": [
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "shutdown": {
-   "announced": "2026-06-01",
-   "date": "2026-08-31",
-   "note": "Online modes end August 31, 2026 — under four years after a $70 launch."
+  {
+    "id": "nhl-23",
+    "title": "NHL 23",
+    "year": 2022,
+    "publisherId": "ea",
+    "platforms": [
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "shutdown": {
+      "announced": "2026-06-01",
+      "date": "2026-08-31",
+      "note": "Online modes end August 31, 2026 — under four years after a $70 launch."
+    },
+    "sources": [
+      "https://www.ea.com/service-updates",
+      "https://gamerant.com/games-shutting-down-2026/"
+    ]
   },
-  "sources": [
-   "https://www.ea.com/service-updates",
-   "https://gamerant.com/games-shutting-down-2026/"
-  ]
- },
- {
-  "id": "grid-legends",
-  "title": "GRID Legends",
-  "year": 2022,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "shutdown": {
-   "announced": "2026-06-01",
-   "date": "2026-09-30",
-   "approx": true,
-   "note": "Server shutdown announced for later in 2026; offline racing will remain."
+  {
+    "id": "grid-legends",
+    "title": "GRID Legends",
+    "year": 2022,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "shutdown": {
+      "announced": "2026-06-01",
+      "date": "2026-09-30",
+      "approx": true,
+      "note": "Server shutdown announced for later in 2026; offline racing will remain."
+    },
+    "sources": [
+      "https://gamerant.com/ea-game-shutting-down-grid-legends-servers/"
+    ]
   },
-  "sources": [
-   "https://gamerant.com/ea-game-shutting-down-grid-legends-servers/"
-  ]
- },
- {
-  "id": "nba-2k25",
-  "title": "NBA 2K25",
-  "year": 2024,
-  "publisherId": "take-two",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": true,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "none",
-  "physical": true,
-  "physicalComplete": false,
-  "shutdown": {
-   "announced": "2026-06-01",
-   "date": "2026-12-31",
-   "approx": true,
-   "note": "2K's standard ~2-year server sunset is scheduled; MyCareer and MyTeam progress dies with it."
+  {
+    "id": "nba-2k25",
+    "title": "NBA 2K25",
+    "year": 2024,
+    "publisherId": "take-two",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": true,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "none",
+    "physical": true,
+    "physicalComplete": false,
+    "shutdown": {
+      "announced": "2026-06-01",
+      "date": "2026-12-31",
+      "approx": true,
+      "note": "2K's standard ~2-year server sunset is scheduled; MyCareer and MyTeam progress dies with it."
+    },
+    "notes": "Career-mode saves live on 2K's servers, so the shutdown deletes single-player progress too.",
+    "sources": [
+      "https://gamerant.com/games-shutting-down-2026/",
+      "https://en.wikipedia.org/wiki/NBA_2K25"
+    ]
   },
-  "notes": "Career-mode saves live on 2K's servers, so the shutdown deletes single-player progress too.",
-  "sources": [
-   "https://gamerant.com/games-shutting-down-2026/",
-   "https://en.wikipedia.org/wiki/NBA_2K25"
-  ]
- },
- {
-  "id": "fortnite",
-  "title": "Fortnite",
-  "year": 2017,
-  "publisherId": "epic",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "The biggest game on earth exists at Epic's pleasure. Thousands of dollars of skins per account, zero survival plan.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Fortnite"
-  ]
- },
- {
-  "id": "apex-legends",
-  "title": "Apex Legends",
-  "year": 2019,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "The Nintendo Switch version is already being sunset in August 2026 — platform by platform is how live games usually start to die.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Apex_Legends",
-   "https://gamerant.com/games-shutting-down-2026/"
-  ]
- },
- {
-  "id": "call-of-duty-warzone",
-  "title": "Call of Duty: Warzone",
-  "aliases": [
-   "warzone",
-   "cod warzone"
-  ],
-  "year": 2020,
-  "publisherId": "activision-blizzard",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "none",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "The original Warzone map was already retired once (Caldera, 2023), and Warzone Mobile was killed in 2026. Precedent set.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone"
-  ]
- },
- {
-  "id": "call-of-duty-black-ops-6",
-  "title": "Call of Duty: Black Ops 6",
-  "aliases": [
-   "bo6",
-   "cod bo6"
-  ],
-  "year": 2024,
-  "publisherId": "activision-blizzard",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Even the single-player campaign requires a connection (asset streaming), and the disc is mostly a download stub. $70 for a game you can't play in your own house without Activision's blessing.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_6"
-  ]
- },
- {
-  "id": "destiny-2",
-  "title": "Destiny 2",
-  "year": 2017,
-  "publisherId": "bungie",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "none",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Bungie already deleted paid campaigns from the live game (the 'Content Vault', 2020) without refunds. You don't even own the parts you're still allowed to play.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Destiny_2"
-  ]
- },
- {
-  "id": "genshin-impact",
-  "title": "Genshin Impact",
-  "year": 2020,
-  "publisherId": "hoyoverse",
-  "platforms": [
-   "pc",
-   "playstation",
-   "mobile"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "A single-player-feeling world that is 100% server-side — and some players have spent five figures on it. PS4 support already ended in 2026.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Genshin_Impact"
-  ]
- },
- {
-  "id": "honkai-star-rail",
-  "title": "Honkai: Star Rail",
-  "year": 2023,
-  "publisherId": "hoyoverse",
-  "platforms": [
-   "pc",
-   "playstation",
-   "mobile"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Honkai:_Star_Rail"
-  ]
- },
- {
-  "id": "league-of-legends",
-  "title": "League of Legends",
-  "aliases": [
-   "lol"
-  ],
-  "year": 2009,
-  "publisherId": "riot",
-  "platforms": [
-   "pc"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Too big to fail — until it isn't. Structurally, seventeen years of purchases evaporate the day Riot decides.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/League_of_Legends"
-  ]
- },
- {
-  "id": "valorant",
-  "title": "Valorant",
-  "year": 2020,
-  "publisherId": "riot",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Always-online, kernel-level anti-cheat, all cosmetics server-side.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Valorant"
-  ]
- },
- {
-  "id": "counter-strike-2",
-  "title": "Counter-Strike 2",
-  "aliases": [
-   "cs2"
-  ],
-  "year": 2023,
-  "publisherId": "valve",
-  "platforms": [
-   "pc"
-  ],
-  "priceUSD": 0,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "f2p_live",
-  "eol": "private_servers",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Community servers and offline bots soften the risk — but remember what happened to CS:GO, which this game overwrote.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Counter-Strike_2"
-  ]
- },
- {
-  "id": "dota-2",
-  "title": "Dota 2",
-  "year": 2013,
-  "publisherId": "valve",
-  "platforms": [
-   "pc"
-  ],
-  "priceUSD": 0,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "f2p_live",
-  "eol": "private_servers",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Dota_2"
-  ]
- },
- {
-  "id": "overwatch-2",
-  "title": "Overwatch 2",
-  "aliases": [
-   "ow2"
-  ],
-  "year": 2022,
-  "publisherId": "activision-blizzard",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "none",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "This game exists because Blizzard deleted the last one. Owners of Overwatch 1 know exactly what the end-of-life plan is: overwrite and move on.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Overwatch_2"
-  ]
- },
- {
-  "id": "marvel-rivals",
-  "title": "Marvel Rivals",
-  "year": 2024,
-  "publisherId": "netease",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Licensed-IP live service: when the Marvel license or the revenue ends, so does the game. NetEase laid off part of the team while it was a hit.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Marvel_Rivals"
-  ]
- },
- {
-  "id": "the-finals",
-  "title": "The Finals",
-  "year": 2023,
-  "publisherId": "nexon",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "PS4 service already sunset in 2026. Nexon killed LawBreakers in 13 months and KartRider after 19 years.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/The_Finals"
-  ]
- },
- {
-  "id": "arc-raiders",
-  "title": "ARC Raiders",
-  "year": 2025,
-  "publisherId": "nexon",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 40,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "You paid $40 for an extraction shooter that is 100% server-side, with no stated end-of-life plan.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/ARC_Raiders"
-  ]
- },
- {
-  "id": "helldivers-2",
-  "title": "Helldivers 2",
-  "year": 2024,
-  "publisherId": "sony",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 40,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Even solo missions run through Sony's servers. In 2024 Sony tried to retroactively require PSN accounts — briefly making the game unbuyable in 177 countries — and backed down only after 200k negative reviews.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Helldivers_2"
-  ]
- },
- {
-  "id": "diablo-4",
-  "title": "Diablo IV",
-  "aliases": [
-   "diablo 4",
-   "d4"
-  ],
-  "year": 2023,
-  "publisherId": "activision-blizzard",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "A $70 game where playing the campaign alone still requires Blizzard's servers. Diablo III on console proved offline is possible; Blizzard chose not to.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Diablo_IV"
-  ]
- },
- {
-  "id": "path-of-exile-2",
-  "title": "Path of Exile 2",
-  "aliases": [
-   "poe2"
-  ],
-  "year": 2024,
-  "publisherId": "grinding-gear",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 30,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Path_of_Exile_2"
-  ]
- },
- {
-  "id": "escape-from-tarkov",
-  "title": "Escape from Tarkov",
-  "aliases": [
-   "tarkov"
-  ],
-  "year": 2017,
-  "publisherId": "battlestate",
-  "platforms": [
-   "pc"
-  ],
-  "priceUSD": 50,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Up to $250 editions, all of it server-side.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Escape_from_Tarkov"
-  ]
- },
- {
-  "id": "dead-by-daylight",
-  "title": "Dead by Daylight",
-  "aliases": [
-   "dbd"
-  ],
-  "year": 2016,
-  "publisherId": "behaviour",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 20,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Hundreds of dollars of DLC killers and cosmetics per dedicated player, all dependent on Behaviour's servers.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Dead_by_Daylight"
-  ]
- },
- {
-  "id": "rainbow-six-siege",
-  "title": "Tom Clancy's Rainbow Six Siege X",
-  "aliases": [
-   "r6",
-   "siege"
-  ],
-  "year": 2015,
-  "publisherId": "ubisoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "A decade of purchases sits on the servers of the publisher that killed The Crew and revoked its licenses.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_Siege"
-  ]
- },
- {
-  "id": "the-division-2",
-  "title": "Tom Clancy's The Division 2",
-  "year": 2019,
-  "publisherId": "ubisoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 30,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "The whole campaign — solo included — runs on Ubisoft servers.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
-  ]
- },
- {
-  "id": "skull-and-bones",
-  "title": "Skull and Bones",
-  "year": 2024,
-  "publisherId": "ubisoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Always-online even sailing solo. A $70 'quadruple-A' game with The Crew's publisher and The Crew's architecture.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Skull_and_Bones_(video_game)"
-  ]
- },
- {
-  "id": "gran-turismo-7",
-  "title": "Gran Turismo 7",
-  "aliases": [
-   "gt7"
-  ],
-  "year": 2022,
-  "publisherId": "sony",
-  "platforms": [
-   "playstation"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": true,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Campaign progress saves to Sony's servers; offline you get a fraction of the game. GT Sport already showed how this ends — its shutdown gutted the game in 2024.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Gran_Turismo_7"
-  ]
- },
- {
-  "id": "ea-sports-fc-26",
-  "title": "EA Sports FC 26",
-  "aliases": [
-   "fifa 26",
-   "fc26"
-  ],
-  "year": 2025,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "none",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Ultimate Team — where the money and most players are — dies when EA flips the switch, as it has for every FIFA before it, on a ~3-year schedule. Money spent on packs is never coming back.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/EA_Sports_FC_26",
-   "https://www.ea.com/service-updates"
-  ]
- },
- {
-  "id": "madden-nfl-26",
-  "title": "Madden NFL 26",
-  "year": 2025,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "none",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Annual-cycle server shutdowns are written into the business model.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Madden_NFL_26",
-   "https://www.ea.com/service-updates"
-  ]
- },
- {
-  "id": "f1-25",
-  "title": "F1 25",
-  "year": 2025,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "sources": [
-   "https://en.wikipedia.org/wiki/F1_25"
-  ]
- },
- {
-  "id": "fall-guys",
-  "title": "Fall Guys",
-  "year": 2020,
-  "publisherId": "epic",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": false,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Went free-to-play under Epic in 2022; people who bought it got some credits. Epic refunded Paragon and Rumbleverse when it killed them — better record than most.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Fall_Guys"
-  ]
- },
- {
-  "id": "rocket-league",
-  "title": "Rocket League",
-  "year": 2015,
-  "publisherId": "epic",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 0,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "f2p_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Offline splitscreen and exhibition still work. Epic already ended Mac/Linux support and delisted the paid version — the perimeter shrinks over time.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Rocket_League"
-  ]
- },
- {
-  "id": "roblox",
-  "title": "Roblox",
-  "year": 2006,
-  "publisherId": "roblox-corp",
-  "platforms": [
-   "pc",
-   "xbox",
-   "playstation",
-   "mobile"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Kids' allowances by the billions, converted into a server-side currency for experiences that can vanish at moderation's or the market's whim.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Roblox"
-  ]
- },
- {
-  "id": "world-of-warcraft",
-  "title": "World of Warcraft",
-  "aliases": [
-   "wow"
-  ],
-  "year": 2004,
-  "publisherId": "activision-blizzard",
-  "platforms": [
-   "pc"
-  ],
-  "priceUSD": 50,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "subscription",
-  "eol": "none",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Two decades of characters live on Blizzard's servers. Blizzard has fought private servers in court — there is no sanctioned afterlife.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/World_of_Warcraft"
-  ]
- },
- {
-  "id": "final-fantasy-14",
-  "title": "Final Fantasy XIV",
-  "aliases": [
-   "ff14",
-   "ffxiv"
-  ],
-  "year": 2013,
-  "publisherId": "square-enix",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 40,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "subscription",
-  "eol": "none",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Final_Fantasy_XIV"
-  ]
- },
- {
-  "id": "warframe",
-  "title": "Warframe",
-  "year": 2013,
-  "publisherId": "digital-extremes",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 0,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "A beloved operator, but structurally the same deal: twelve years of player investment, no offline plan.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Warframe"
-  ]
- },
- {
-  "id": "sea-of-thieves",
-  "title": "Sea of Thieves",
-  "year": 2018,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox",
-   "playstation"
-  ],
-  "priceUSD": 40,
-  "online": "required",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Sea_of_Thieves"
-  ]
- },
- {
-  "id": "elden-ring-nightreign",
-  "title": "Elden Ring Nightreign",
-  "year": 2025,
-  "publisherId": "bandai-namco",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 40,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Co-op-centric spin-off; solo offline play exists but the designed experience needs matchmaking servers.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Elden_Ring_Nightreign"
-  ]
- },
- {
-  "id": "monster-hunter-wilds",
-  "title": "Monster Hunter Wilds",
-  "year": 2025,
-  "publisherId": "capcom",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "denuvo",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Hunts work offline; the hub, events and co-op don't. Capcom has also retrofitted DRM onto old games — your copy can change under you.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Monster_Hunter_Wilds"
-  ]
- },
- {
-  "id": "street-fighter-6",
-  "title": "Street Fighter 6",
-  "aliases": [
-   "sf6"
-  ],
-  "year": 2023,
-  "publisherId": "capcom",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "denuvo",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Offline versus and arcade survive a shutdown; Battle Hub and rank don't. Capcom's older fighters all lost their online modes eventually.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Street_Fighter_6"
-  ]
- },
- {
-  "id": "tekken-8",
-  "title": "Tekken 8",
-  "year": 2024,
-  "publisherId": "bandai-namco",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "denuvo",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Tekken_8"
-  ]
- },
- {
-  "id": "mortal-kombat-1",
-  "title": "Mortal Kombat 1",
-  "aliases": [
-   "mk1"
-  ],
-  "year": 2023,
-  "publisherId": "wb",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "denuvo",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Offline fighting survives; unlocks and seasonal content are server-side. WB killed MultiVersus and MK Onslaught within the last two years.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Mortal_Kombat_1"
-  ]
- },
- {
-  "id": "halo-infinite",
-  "title": "Halo Infinite",
-  "year": 2021,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "f2p_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "The campaign installs and plays offline; multiplayer and everything you bought in it is server-side. Older Halo games' 360 servers were shut in 2022.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Halo_Infinite"
-  ]
- },
- {
-  "id": "forza-horizon-5",
-  "title": "Forza Horizon 5",
-  "aliases": [
-   "fh5"
-  ],
-  "year": 2021,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox",
-   "playstation"
-  ],
-  "priceUSD": 60,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "none",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Horizon 1 through 4 have all been delisted on schedule as licenses expire. This one's clock is already ticking.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Forza_Horizon_5"
-  ]
- },
- {
-  "id": "forza-motorsport",
-  "title": "Forza Motorsport (2023)",
-  "year": 2023,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": true,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "none",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Career progression required online connectivity at launch — a racing game you can't fully play in a tunnel.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Forza_Motorsport_(2023_video_game)"
-  ]
- },
- {
-  "id": "microsoft-flight-simulator-2024",
-  "title": "Microsoft Flight Simulator 2024",
-  "aliases": [
-   "msfs"
-  ],
-  "year": 2024,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": true,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "The world itself streams from Azure. Offline mode exists but is a husk of what you paid for. When these servers sunset, so does the product as sold.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_2024"
-  ]
- },
- {
-  "id": "rust",
-  "title": "Rust",
-  "year": 2013,
-  "publisherId": "facepunch",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 40,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "private_servers",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Community servers are first-class: even if Facepunch vanished, the game wouldn't.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Rust_(video_game)"
-  ]
- },
- {
-  "id": "phasmophobia",
-  "title": "Phasmophobia",
-  "year": 2020,
-  "publisherId": "kinetic-games",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 20,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Phasmophobia_(video_game)"
-  ]
- },
- {
-  "id": "among-us",
-  "title": "Among Us",
-  "year": 2018,
-  "publisherId": "innersloth",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 5,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "partial",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Local wifi play exists — a rare survival hatch in a multiplayer-first game.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Among_Us"
-  ]
- },
- {
-  "id": "splatoon-3",
-  "title": "Splatoon 3",
-  "year": 2022,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 60,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "The single-player campaign lives on the cartridge forever; the online core dies whenever Nintendo repeats what it did to the Wii U and 3DS in 2024.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Splatoon_3"
-  ]
- },
- {
-  "id": "gta-5",
-  "title": "Grand Theft Auto V",
-  "aliases": [
-   "gta v",
-   "gta 5",
-   "gtav"
-  ],
-  "year": 2013,
-  "publisherId": "take-two",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 30,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Story mode is yours offline. GTA Online already died once — on PS3/360 in 2021 — and everything bought there died with it.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
-  ]
- },
- {
-  "id": "red-dead-redemption-2",
-  "title": "Red Dead Redemption 2",
-  "aliases": [
-   "rdr2"
-  ],
-  "year": 2018,
-  "publisherId": "take-two",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "partial",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "The campaign is safe. Red Dead Online was abandoned years ago — a live service can die of neglect, too.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2"
-  ]
- },
- {
-  "id": "civilization-7",
-  "title": "Sid Meier's Civilization VII",
-  "aliases": [
-   "civ 7"
-  ],
-  "year": 2025,
-  "publisherId": "take-two",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Civilization_VII"
-  ]
- },
- {
-  "id": "borderlands-4",
-  "title": "Borderlands 4",
-  "year": 2025,
-  "publisherId": "take-two",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Fully playable offline solo — Gearbox confirmed it after the Borderlands 3 launch-era backlash taught them the question matters.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Borderlands_4"
-  ]
- },
- {
-  "id": "baldurs-gate-3",
-  "title": "Baldur's Gate 3",
-  "aliases": [
-   "bg3"
-  ],
-  "year": 2023,
-  "publisherId": "larian",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "DRM-free on GOG, offline-complete, physical deluxe edition with the game on disc. This is what respecting a customer looks like.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3"
-  ]
- },
- {
-  "id": "cyberpunk-2077",
-  "title": "Cyberpunk 2077",
-  "year": 2020,
-  "publisherId": "cdpr",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 60,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "CD Projekt sells it DRM-free on its own store. Buy it once, back it up, keep it forever.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Cyberpunk_2077"
-  ]
- },
- {
-  "id": "the-witcher-3",
-  "title": "The Witcher 3: Wild Hunt",
-  "aliases": [
-   "witcher 3"
-  ],
-  "year": 2015,
-  "publisherId": "cdpr",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 40,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt"
-  ]
- },
- {
-  "id": "elden-ring",
-  "title": "Elden Ring",
-  "year": 2022,
-  "publisherId": "bandai-namco",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "Online co-op and messages are optional garnish; the game is complete offline and complete on disc.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Elden_Ring"
-  ]
- },
- {
-  "id": "zelda-tears-of-the-kingdom",
-  "title": "The Legend of Zelda: Tears of the Kingdom",
-  "aliases": [
-   "totk",
-   "zelda totk"
-  ],
-  "year": 2023,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "The complete game ships on the cartridge — increasingly the exception, even at Nintendo, as Switch 2 'game-key cards' spread.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
-  ]
- },
- {
-  "id": "mario-kart-world",
-  "title": "Mario Kart World",
-  "year": 2025,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 80,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "The $80 flagship ships complete on cartridge. Check the box on other Switch 2 games: 'game-key card' means you're buying a download code in a case.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Mario_Kart_World"
-  ]
- },
- {
-  "id": "mario-kart-8-deluxe",
-  "title": "Mario Kart 8 Deluxe",
-  "aliases": [
-   "mk8"
-  ],
-  "year": 2017,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "Offline play is forever. Online play lives exactly as long as Nintendo wants — ask Mario Kart Wii players, cut off in 2014.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Mario_Kart_8_Deluxe"
-  ]
- },
- {
-  "id": "animal-crossing-new-horizons",
-  "title": "Animal Crossing: New Horizons",
-  "aliases": [
-   "acnh"
-  ],
-  "year": 2020,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons"
-  ]
- },
- {
-  "id": "pokemon-scarlet-violet",
-  "title": "Pokémon Scarlet and Violet",
-  "aliases": [
-   "pokemon sv"
-  ],
-  "year": 2022,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Scarlet_and_Violet"
-  ]
- },
- {
-  "id": "super-smash-bros-ultimate",
-  "title": "Super Smash Bros. Ultimate",
-  "aliases": [
-   "smash"
-  ],
-  "year": 2018,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate"
-  ]
- },
- {
-  "id": "metroid-prime-4",
-  "title": "Metroid Prime 4: Beyond",
-  "year": 2025,
-  "publisherId": "nintendo",
-  "platforms": [
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Metroid_Prime_4:_Beyond"
-  ]
- },
- {
-  "id": "god-of-war-ragnarok",
-  "title": "God of War Ragnarök",
-  "year": 2022,
-  "publisherId": "sony",
-  "platforms": [
-   "pc",
-   "playstation"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "Fully offline — but the PC version added a mandatory PSN account login, a leash Sony now attaches to its single-player ports.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k"
-  ]
- },
- {
-  "id": "marvels-spider-man-2",
-  "title": "Marvel's Spider-Man 2",
-  "aliases": [
-   "spiderman 2"
-  ],
-  "year": 2023,
-  "publisherId": "sony",
-  "platforms": [
-   "pc",
-   "playstation"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man_2"
-  ]
- },
- {
-  "id": "ghost-of-yotei",
-  "title": "Ghost of Yōtei",
-  "year": 2025,
-  "publisherId": "sony",
-  "platforms": [
-   "playstation"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei"
-  ]
- },
- {
-  "id": "death-stranding-2",
-  "title": "Death Stranding 2: On the Beach",
-  "aliases": [
-   "ds2"
-  ],
-  "year": 2025,
-  "publisherId": "sony",
-  "platforms": [
-   "playstation"
-  ],
-  "priceUSD": 70,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "The social strand features need servers; the journey doesn't.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach"
-  ]
- },
- {
-  "id": "starfield",
-  "title": "Starfield",
-  "year": 2023,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Plays fully offline — but the 'physical' premium edition was a code in a box. No disc preserves this game.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Starfield_(video_game)"
-  ]
- },
- {
-  "id": "doom-the-dark-ages",
-  "title": "Doom: The Dark Ages",
-  "year": 2025,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "denuvo",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "A fully offline campaign wrapped in Denuvo anti-tamper — durability by design, undermined by DRM.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Doom:_The_Dark_Ages"
-  ]
- },
- {
-  "id": "redfall",
-  "title": "Redfall",
-  "year": 2023,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "offline_patch_released",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Launched requiring a connection even solo; after the studio was closed, the final update made it playable offline forever. The bar every dying game should clear.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Redfall"
-  ]
- },
- {
-  "id": "age-of-empires-2-de",
-  "title": "Age of Empires II: Definitive Edition",
-  "aliases": [
-   "aoe2"
-  ],
-  "year": 2019,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 20,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "private_servers",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "A 26-year-old game still thriving — skirmish and LAN survive anything.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Age_of_Empires_II:_Definitive_Edition"
-  ]
- },
- {
-  "id": "minecraft",
-  "title": "Minecraft",
-  "year": 2011,
-  "publisherId": "microsoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 30,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "private_servers",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Offline worlds and self-hosted servers make it nearly unkillable — though Microsoft's migration to mandatory accounts showed who holds the keys.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Minecraft"
-  ]
- },
- {
-  "id": "sims-4",
-  "title": "The Sims 4",
-  "year": 2014,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 0,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "f2p_live",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Plays offline — good, because EA just killed The Sims Mobile and has $1,000+ of DLC riding on this one.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/The_Sims_4"
-  ]
- },
- {
-  "id": "battlefield-6",
-  "title": "Battlefield 6",
-  "aliases": [
-   "bf6"
-  ],
-  "year": 2025,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "none",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "EA switched off Battlefield Hardline's console servers in June 2026 and has killed every older Battlefield's online eventually. The campaign will outlive the part everyone actually buys it for.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Battlefield_6",
-   "https://www.ea.com/service-updates"
-  ]
- },
- {
-  "id": "star-wars-jedi-survivor",
-  "title": "Star Wars Jedi: Survivor",
-  "year": 2023,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Offline single-player (Denuvo was removed post-launch). The disc still needs a hefty download.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor"
-  ]
- },
- {
-  "id": "split-fiction",
-  "title": "Split Fiction",
-  "year": 2025,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 50,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Couch co-op means the whole game works with zero servers — Hazelight builds them like they used to.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Split_Fiction"
-  ]
- },
- {
-  "id": "dragon-age-veilguard",
-  "title": "Dragon Age: The Veilguard",
-  "year": 2024,
-  "publisherId": "ea",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Fully offline, no EA account required — BioWare's other 2020s game, Anthem, is already in the graveyard for doing the opposite.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Dragon_Age:_The_Veilguard"
-  ]
- },
- {
-  "id": "assassins-creed-shadows",
-  "title": "Assassin's Creed Shadows",
-  "aliases": [
-   "ac shadows"
-  ],
-  "year": 2025,
-  "publisherId": "ubisoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium_live",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Playable offline after activation — but Ubisoft Connect sits between you and your game, from the publisher that decommissioned online services for 90+ titles in one sweep.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Shadows"
-  ]
- },
- {
-  "id": "the-crew-motorfest",
-  "title": "The Crew Motorfest",
-  "year": 2023,
-  "publisherId": "ubisoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "features",
-  "spServerDependent": true,
-  "drm": "online_auth",
-  "model": "premium_live",
-  "eol": "offline_patch_promised",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Same architecture that killed The Crew — but after the lawsuit and backlash, Ubisoft pledged offline modes for Motorfest and The Crew 2. Pressure works; hold them to it.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/The_Crew_Motorfest",
-   "https://www.thecrew-game.com/"
-  ]
- },
- {
-  "id": "far-cry-6",
-  "title": "Far Cry 6",
-  "year": 2021,
-  "publisherId": "ubisoft",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Far_Cry_6"
-  ]
- },
- {
-  "id": "hogwarts-legacy",
-  "title": "Hogwarts Legacy",
-  "year": 2023,
-  "publisherId": "wb",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "denuvo",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "Fully offline open world; Denuvo is the only string attached to the PC version.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Hogwarts_Legacy"
-  ]
- },
- {
-  "id": "suicide-squad-ktjl",
-  "title": "Suicide Squad: Kill the Justice League",
-  "year": 2024,
-  "publisherId": "wb",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 70,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "denuvo",
-  "model": "premium_live",
-  "eol": "offline_patch_released",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Launched always-online even solo; its final update added a full offline mode. The right ending to the wrong design — and proof patches like this cost publishers little.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League"
-  ]
- },
- {
-  "id": "final-fantasy-7-rebirth",
-  "title": "Final Fantasy VII Rebirth",
-  "aliases": [
-   "ff7 rebirth"
-  ],
-  "year": 2024,
-  "publisherId": "square-enix",
-  "platforms": [
-   "pc",
-   "playstation"
-  ],
-  "priceUSD": 70,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth"
-  ]
- },
- {
-  "id": "clair-obscur-expedition-33",
-  "title": "Clair Obscur: Expedition 33",
-  "aliases": [
-   "expedition 33"
-  ],
-  "year": 2025,
-  "publisherId": "kepler",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 50,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33"
-  ]
- },
- {
-  "id": "black-myth-wukong",
-  "title": "Black Myth: Wukong",
-  "aliases": [
-   "wukong"
-  ],
-  "year": 2024,
-  "publisherId": "game-science",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Black_Myth:_Wukong"
-  ]
- },
- {
-  "id": "kingdom-come-deliverance-2",
-  "title": "Kingdom Come: Deliverance II",
-  "aliases": [
-   "kcd2"
-  ],
-  "year": 2025,
-  "publisherId": "plaion",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": null,
-  "notes": "DRM-free on GOG. A 100-hour RPG nobody can repossess.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance_II"
-  ]
- },
- {
-  "id": "stalker-2",
-  "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-  "aliases": [
-   "stalker 2"
-  ],
-  "year": 2024,
-  "publisherId": "gsc-game-world",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": null,
-  "notes": "DRM-free on GOG.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
-  ]
- },
- {
-  "id": "alan-wake-2",
-  "title": "Alan Wake 2",
-  "year": 2023,
-  "publisherId": "epic",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 60,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": false,
-  "notes": "Digital-only for its first year; the eventual deluxe disc still needs a download. A fully offline game you can't fully hold.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Alan_Wake_2"
-  ]
- },
- {
-  "id": "wayfinder",
-  "title": "Wayfinder",
-  "year": 2023,
-  "publisherId": "airship-syndicate",
-  "platforms": [
-   "pc",
-   "playstation"
-  ],
-  "priceUSD": 25,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "offline_patch_released",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Launched as an always-online live service; when its publisher walked away, the developers bought it back and rebuilt it fully offline rather than kill it. The counter-example to every tombstone in the graveyard.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Wayfinder_(video_game)"
-  ]
- },
- {
-  "id": "no-mans-sky",
-  "title": "No Man's Sky",
-  "aliases": [
-   "nms"
-  ],
-  "year": 2016,
-  "publisherId": "hello-games",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 60,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "A decade of free updates and the whole universe still works offline.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/No_Man%27s_Sky"
-  ]
- },
- {
-  "id": "valheim",
-  "title": "Valheim",
-  "year": 2021,
-  "publisherId": "coffee-stain",
-  "platforms": [
-   "pc",
-   "xbox"
-  ],
-  "priceUSD": 20,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "private_servers",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Valheim"
-  ]
- },
- {
-  "id": "palworld",
-  "title": "Palworld",
-  "year": 2024,
-  "publisherId": "pocketpair",
-  "platforms": [
-   "pc",
-   "xbox",
-   "playstation"
-  ],
-  "priceUSD": 30,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "private_servers",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Palworld"
-  ]
- },
- {
-  "id": "deep-rock-galactic",
-  "title": "Deep Rock Galactic",
-  "aliases": [
-   "drg"
-  ],
-  "year": 2018,
-  "publisherId": "coffee-stain",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 30,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "Solo play with Bosco works offline. Rock and stone.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Deep_Rock_Galactic"
-  ]
- },
- {
-  "id": "stardew-valley",
-  "title": "Stardew Valley",
-  "year": 2016,
-  "publisherId": "concernedape",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 15,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "notes": "DRM-free on GOG, complete on cartridge, updated free for a decade by one person. The anti-live-service.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Stardew_Valley"
-  ]
- },
- {
-  "id": "terraria",
-  "title": "Terraria",
-  "year": 2011,
-  "publisherId": "re-logic",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 10,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "private_servers",
-  "physical": true,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Terraria"
-  ]
- },
- {
-  "id": "factorio",
-  "title": "Factorio",
-  "year": 2020,
-  "publisherId": "wube",
-  "platforms": [
-   "pc",
-   "nintendo"
-  ],
-  "priceUSD": 35,
-  "online": "optional",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "private_servers",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "DRM-free download from the developer's own site. Never goes on sale; never gets taken away.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Factorio"
-  ]
- },
- {
-  "id": "rimworld",
-  "title": "RimWorld",
-  "year": 2018,
-  "publisherId": "ludeon",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox"
-  ],
-  "priceUSD": 35,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/RimWorld"
-  ]
- },
- {
-  "id": "hades-2",
-  "title": "Hades II",
-  "aliases": [
-   "hades 2"
-  ],
-  "year": 2025,
-  "publisherId": "supergiant",
-  "platforms": [
-   "pc",
-   "nintendo"
-  ],
-  "priceUSD": 30,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Hades_II"
-  ]
- },
- {
-  "id": "hollow-knight-silksong",
-  "title": "Hollow Knight: Silksong",
-  "aliases": [
-   "silksong"
-  ],
-  "year": 2025,
-  "publisherId": "team-cherry",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo"
-  ],
-  "priceUSD": 20,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "drm_free",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "notes": "DRM-free on GOG. $20, offline forever.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong"
-  ]
- },
- {
-  "id": "balatro",
-  "title": "Balatro",
-  "year": 2024,
-  "publisherId": "playstack",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 15,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": true,
-  "physicalComplete": true,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Balatro"
-  ]
- },
- {
-  "id": "vampire-survivors",
-  "title": "Vampire Survivors",
-  "year": 2022,
-  "publisherId": "poncle",
-  "platforms": [
-   "pc",
-   "playstation",
-   "xbox",
-   "nintendo",
-   "mobile"
-  ],
-  "priceUSD": 5,
-  "online": "none",
-  "spServerDependent": false,
-  "drm": "storefront",
-  "model": "premium",
-  "eol": "unknown",
-  "physical": false,
-  "physicalComplete": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Vampire_Survivors"
-  ]
- }
+  {
+    "id": "fortnite",
+    "title": "Fortnite",
+    "year": 2017,
+    "publisherId": "epic",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "The biggest game on earth exists at Epic's pleasure. Thousands of dollars of skins per account, zero survival plan.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fortnite"
+    ]
+  },
+  {
+    "id": "apex-legends",
+    "title": "Apex Legends",
+    "year": 2019,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "The Nintendo Switch version is already being sunset in August 2026 — platform by platform is how live games usually start to die.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Apex_Legends",
+      "https://gamerant.com/games-shutting-down-2026/"
+    ]
+  },
+  {
+    "id": "call-of-duty-warzone",
+    "title": "Call of Duty: Warzone",
+    "aliases": [
+      "warzone",
+      "cod warzone"
+    ],
+    "year": 2020,
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "none",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "The original Warzone map was already retired once (Caldera, 2023), and Warzone Mobile was killed in 2026. Precedent set.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone"
+    ]
+  },
+  {
+    "id": "call-of-duty-black-ops-6",
+    "title": "Call of Duty: Black Ops 6",
+    "aliases": [
+      "bo6",
+      "cod bo6"
+    ],
+    "year": 2024,
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Even the single-player campaign requires a connection (asset streaming), and the disc is mostly a download stub. $70 for a game you can't play in your own house without Activision's blessing.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_6"
+    ]
+  },
+  {
+    "id": "destiny-2",
+    "title": "Destiny 2",
+    "year": 2017,
+    "publisherId": "bungie",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "none",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Bungie already deleted paid campaigns from the live game (the 'Content Vault', 2020) without refunds. You don't even own the parts you're still allowed to play.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Destiny_2"
+    ]
+  },
+  {
+    "id": "genshin-impact",
+    "title": "Genshin Impact",
+    "year": 2020,
+    "publisherId": "hoyoverse",
+    "platforms": [
+      "pc",
+      "playstation",
+      "mobile"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "A single-player-feeling world that is 100% server-side — and some players have spent five figures on it. PS4 support already ended in 2026.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Genshin_Impact"
+    ]
+  },
+  {
+    "id": "honkai-star-rail",
+    "title": "Honkai: Star Rail",
+    "year": 2023,
+    "publisherId": "hoyoverse",
+    "platforms": [
+      "pc",
+      "playstation",
+      "mobile"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Honkai:_Star_Rail"
+    ]
+  },
+  {
+    "id": "league-of-legends",
+    "title": "League of Legends",
+    "aliases": [
+      "lol"
+    ],
+    "year": 2009,
+    "publisherId": "riot",
+    "platforms": [
+      "pc"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Too big to fail — until it isn't. Structurally, seventeen years of purchases evaporate the day Riot decides.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/League_of_Legends"
+    ]
+  },
+  {
+    "id": "valorant",
+    "title": "Valorant",
+    "year": 2020,
+    "publisherId": "riot",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Always-online, kernel-level anti-cheat, all cosmetics server-side.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Valorant"
+    ]
+  },
+  {
+    "id": "counter-strike-2",
+    "title": "Counter-Strike 2",
+    "aliases": [
+      "cs2"
+    ],
+    "year": 2023,
+    "publisherId": "valve",
+    "platforms": [
+      "pc"
+    ],
+    "priceUSD": 0,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "f2p_live",
+    "eol": "private_servers",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Community servers and offline bots soften the risk — but remember what happened to CS:GO, which this game overwrote.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Counter-Strike_2"
+    ]
+  },
+  {
+    "id": "dota-2",
+    "title": "Dota 2",
+    "year": 2013,
+    "publisherId": "valve",
+    "platforms": [
+      "pc"
+    ],
+    "priceUSD": 0,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "f2p_live",
+    "eol": "private_servers",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dota_2"
+    ]
+  },
+  {
+    "id": "overwatch-2",
+    "title": "Overwatch 2",
+    "aliases": [
+      "ow2"
+    ],
+    "year": 2022,
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "none",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "This game exists because Blizzard deleted the last one. Owners of Overwatch 1 know exactly what the end-of-life plan is: overwrite and move on.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Overwatch_2"
+    ]
+  },
+  {
+    "id": "marvel-rivals",
+    "title": "Marvel Rivals",
+    "year": 2024,
+    "publisherId": "netease",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Licensed-IP live service: when the Marvel license or the revenue ends, so does the game. NetEase laid off part of the team while it was a hit.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marvel_Rivals"
+    ]
+  },
+  {
+    "id": "the-finals",
+    "title": "The Finals",
+    "year": 2023,
+    "publisherId": "nexon",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "PS4 service already sunset in 2026. Nexon killed LawBreakers in 13 months and KartRider after 19 years.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Finals"
+    ]
+  },
+  {
+    "id": "arc-raiders",
+    "title": "ARC Raiders",
+    "year": 2025,
+    "publisherId": "nexon",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 40,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "You paid $40 for an extraction shooter that is 100% server-side, with no stated end-of-life plan.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ARC_Raiders"
+    ]
+  },
+  {
+    "id": "helldivers-2",
+    "title": "Helldivers 2",
+    "year": 2024,
+    "publisherId": "sony",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 40,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Even solo missions run through Sony's servers. In 2024 Sony tried to retroactively require PSN accounts — briefly making the game unbuyable in 177 countries — and backed down only after 200k negative reviews.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Helldivers_2"
+    ]
+  },
+  {
+    "id": "diablo-4",
+    "title": "Diablo IV",
+    "aliases": [
+      "diablo 4",
+      "d4"
+    ],
+    "year": 2023,
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "A $70 game where playing the campaign alone still requires Blizzard's servers. Diablo III on console proved offline is possible; Blizzard chose not to.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Diablo_IV"
+    ]
+  },
+  {
+    "id": "path-of-exile-2",
+    "title": "Path of Exile 2",
+    "aliases": [
+      "poe2"
+    ],
+    "year": 2024,
+    "publisherId": "grinding-gear",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 30,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Path_of_Exile_2"
+    ]
+  },
+  {
+    "id": "escape-from-tarkov",
+    "title": "Escape from Tarkov",
+    "aliases": [
+      "tarkov"
+    ],
+    "year": 2017,
+    "publisherId": "battlestate",
+    "platforms": [
+      "pc"
+    ],
+    "priceUSD": 50,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Up to $250 editions, all of it server-side.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Escape_from_Tarkov"
+    ]
+  },
+  {
+    "id": "dead-by-daylight",
+    "title": "Dead by Daylight",
+    "aliases": [
+      "dbd"
+    ],
+    "year": 2016,
+    "publisherId": "behaviour",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 20,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Hundreds of dollars of DLC killers and cosmetics per dedicated player, all dependent on Behaviour's servers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dead_by_Daylight"
+    ]
+  },
+  {
+    "id": "rainbow-six-siege",
+    "title": "Tom Clancy's Rainbow Six Siege X",
+    "aliases": [
+      "r6",
+      "siege"
+    ],
+    "year": 2015,
+    "publisherId": "ubisoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "A decade of purchases sits on the servers of the publisher that killed The Crew and revoked its licenses.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_Siege"
+    ]
+  },
+  {
+    "id": "the-division-2",
+    "title": "Tom Clancy's The Division 2",
+    "year": 2019,
+    "publisherId": "ubisoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 30,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "The whole campaign — solo included — runs on Ubisoft servers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division_2"
+    ]
+  },
+  {
+    "id": "skull-and-bones",
+    "title": "Skull and Bones",
+    "year": 2024,
+    "publisherId": "ubisoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Always-online even sailing solo. A $70 'quadruple-A' game with The Crew's publisher and The Crew's architecture.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Skull_and_Bones_(video_game)"
+    ]
+  },
+  {
+    "id": "gran-turismo-7",
+    "title": "Gran Turismo 7",
+    "aliases": [
+      "gt7"
+    ],
+    "year": 2022,
+    "publisherId": "sony",
+    "platforms": [
+      "playstation"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": true,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Campaign progress saves to Sony's servers; offline you get a fraction of the game. GT Sport already showed how this ends — its shutdown gutted the game in 2024.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gran_Turismo_7"
+    ]
+  },
+  {
+    "id": "ea-sports-fc-26",
+    "title": "EA Sports FC 26",
+    "aliases": [
+      "fifa 26",
+      "fc26"
+    ],
+    "year": 2025,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "none",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Ultimate Team — where the money and most players are — dies when EA flips the switch, as it has for every FIFA before it, on a ~3-year schedule. Money spent on packs is never coming back.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/EA_Sports_FC_26",
+      "https://www.ea.com/service-updates"
+    ]
+  },
+  {
+    "id": "madden-nfl-26",
+    "title": "Madden NFL 26",
+    "year": 2025,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "none",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Annual-cycle server shutdowns are written into the business model.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madden_NFL_26",
+      "https://www.ea.com/service-updates"
+    ]
+  },
+  {
+    "id": "f1-25",
+    "title": "F1 25",
+    "year": 2025,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "sources": [
+      "https://en.wikipedia.org/wiki/F1_25"
+    ]
+  },
+  {
+    "id": "fall-guys",
+    "title": "Fall Guys",
+    "year": 2020,
+    "publisherId": "epic",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": false,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Went free-to-play under Epic in 2022; people who bought it got some credits. Epic refunded Paragon and Rumbleverse when it killed them — better record than most.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fall_Guys"
+    ]
+  },
+  {
+    "id": "rocket-league",
+    "title": "Rocket League",
+    "year": 2015,
+    "publisherId": "epic",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 0,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "f2p_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Offline splitscreen and exhibition still work. Epic already ended Mac/Linux support and delisted the paid version — the perimeter shrinks over time.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rocket_League"
+    ]
+  },
+  {
+    "id": "roblox",
+    "title": "Roblox",
+    "year": 2006,
+    "publisherId": "roblox-corp",
+    "platforms": [
+      "pc",
+      "xbox",
+      "playstation",
+      "mobile"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Kids' allowances by the billions, converted into a server-side currency for experiences that can vanish at moderation's or the market's whim.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Roblox"
+    ]
+  },
+  {
+    "id": "world-of-warcraft",
+    "title": "World of Warcraft",
+    "aliases": [
+      "wow"
+    ],
+    "year": 2004,
+    "publisherId": "activision-blizzard",
+    "platforms": [
+      "pc"
+    ],
+    "priceUSD": 50,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "subscription",
+    "eol": "none",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Two decades of characters live on Blizzard's servers. Blizzard has fought private servers in court — there is no sanctioned afterlife.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_of_Warcraft"
+    ]
+  },
+  {
+    "id": "final-fantasy-14",
+    "title": "Final Fantasy XIV",
+    "aliases": [
+      "ff14",
+      "ffxiv"
+    ],
+    "year": 2013,
+    "publisherId": "square-enix",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 40,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "subscription",
+    "eol": "none",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Final_Fantasy_XIV"
+    ]
+  },
+  {
+    "id": "warframe",
+    "title": "Warframe",
+    "year": 2013,
+    "publisherId": "digital-extremes",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 0,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "A beloved operator, but structurally the same deal: twelve years of player investment, no offline plan.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Warframe"
+    ]
+  },
+  {
+    "id": "sea-of-thieves",
+    "title": "Sea of Thieves",
+    "year": 2018,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox",
+      "playstation"
+    ],
+    "priceUSD": 40,
+    "online": "required",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sea_of_Thieves"
+    ]
+  },
+  {
+    "id": "elden-ring-nightreign",
+    "title": "Elden Ring Nightreign",
+    "year": 2025,
+    "publisherId": "bandai-namco",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 40,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Co-op-centric spin-off; solo offline play exists but the designed experience needs matchmaking servers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elden_Ring_Nightreign"
+    ]
+  },
+  {
+    "id": "monster-hunter-wilds",
+    "title": "Monster Hunter Wilds",
+    "year": 2025,
+    "publisherId": "capcom",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "denuvo",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Hunts work offline; the hub, events and co-op don't. Capcom has also retrofitted DRM onto old games — your copy can change under you.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monster_Hunter_Wilds"
+    ]
+  },
+  {
+    "id": "street-fighter-6",
+    "title": "Street Fighter 6",
+    "aliases": [
+      "sf6"
+    ],
+    "year": 2023,
+    "publisherId": "capcom",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "denuvo",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Offline versus and arcade survive a shutdown; Battle Hub and rank don't. Capcom's older fighters all lost their online modes eventually.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Street_Fighter_6"
+    ]
+  },
+  {
+    "id": "tekken-8",
+    "title": "Tekken 8",
+    "year": 2024,
+    "publisherId": "bandai-namco",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "denuvo",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tekken_8"
+    ]
+  },
+  {
+    "id": "mortal-kombat-1",
+    "title": "Mortal Kombat 1",
+    "aliases": [
+      "mk1"
+    ],
+    "year": 2023,
+    "publisherId": "wb",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "denuvo",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Offline fighting survives; unlocks and seasonal content are server-side. WB killed MultiVersus and MK Onslaught within the last two years.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mortal_Kombat_1"
+    ]
+  },
+  {
+    "id": "halo-infinite",
+    "title": "Halo Infinite",
+    "year": 2021,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "f2p_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "The campaign installs and plays offline; multiplayer and everything you bought in it is server-side. Older Halo games' 360 servers were shut in 2022.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Halo_Infinite"
+    ]
+  },
+  {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "aliases": [
+      "fh5"
+    ],
+    "year": 2021,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox",
+      "playstation"
+    ],
+    "priceUSD": 60,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "none",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Horizon 1 through 4 have all been delisted on schedule as licenses expire. This one's clock is already ticking.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Forza_Horizon_5"
+    ]
+  },
+  {
+    "id": "forza-motorsport",
+    "title": "Forza Motorsport (2023)",
+    "year": 2023,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": true,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "none",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Career progression required online connectivity at launch — a racing game you can't fully play in a tunnel.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Forza_Motorsport_(2023_video_game)"
+    ]
+  },
+  {
+    "id": "microsoft-flight-simulator-2024",
+    "title": "Microsoft Flight Simulator 2024",
+    "aliases": [
+      "msfs"
+    ],
+    "year": 2024,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": true,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "The world itself streams from Azure. Offline mode exists but is a husk of what you paid for. When these servers sunset, so does the product as sold.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_2024"
+    ]
+  },
+  {
+    "id": "rust",
+    "title": "Rust",
+    "year": 2013,
+    "publisherId": "facepunch",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 40,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "private_servers",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Community servers are first-class: even if Facepunch vanished, the game wouldn't.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rust_(video_game)"
+    ]
+  },
+  {
+    "id": "phasmophobia",
+    "title": "Phasmophobia",
+    "year": 2020,
+    "publisherId": "kinetic-games",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 20,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phasmophobia_(video_game)"
+    ]
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "year": 2018,
+    "publisherId": "innersloth",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 5,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "partial",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Local wifi play exists — a rare survival hatch in a multiplayer-first game.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Among_Us"
+    ]
+  },
+  {
+    "id": "splatoon-3",
+    "title": "Splatoon 3",
+    "year": 2022,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 60,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "The single-player campaign lives on the cartridge forever; the online core dies whenever Nintendo repeats what it did to the Wii U and 3DS in 2024.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Splatoon_3"
+    ]
+  },
+  {
+    "id": "gta-5",
+    "title": "Grand Theft Auto V",
+    "aliases": [
+      "gta v",
+      "gta 5",
+      "gtav"
+    ],
+    "year": 2013,
+    "publisherId": "take-two",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 30,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Story mode is yours offline. GTA Online already died once — on PS3/360 in 2021 — and everything bought there died with it.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+    ]
+  },
+  {
+    "id": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "aliases": [
+      "rdr2"
+    ],
+    "year": 2018,
+    "publisherId": "take-two",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "partial",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "The campaign is safe. Red Dead Online was abandoned years ago — a live service can die of neglect, too.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2"
+    ]
+  },
+  {
+    "id": "civilization-7",
+    "title": "Sid Meier's Civilization VII",
+    "aliases": [
+      "civ 7"
+    ],
+    "year": 2025,
+    "publisherId": "take-two",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Civilization_VII"
+    ]
+  },
+  {
+    "id": "borderlands-4",
+    "title": "Borderlands 4",
+    "year": 2025,
+    "publisherId": "take-two",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Fully playable offline solo — Gearbox confirmed it after the Borderlands 3 launch-era backlash taught them the question matters.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Borderlands_4"
+    ]
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "aliases": [
+      "bg3"
+    ],
+    "year": 2023,
+    "publisherId": "larian",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "DRM-free on GOG, offline-complete, physical deluxe edition with the game on disc. This is what respecting a customer looks like.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3"
+    ]
+  },
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "year": 2020,
+    "publisherId": "cdpr",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 60,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "CD Projekt sells it DRM-free on its own store. Buy it once, back it up, keep it forever.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cyberpunk_2077"
+    ]
+  },
+  {
+    "id": "the-witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "aliases": [
+      "witcher 3"
+    ],
+    "year": 2015,
+    "publisherId": "cdpr",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 40,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt"
+    ]
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "year": 2022,
+    "publisherId": "bandai-namco",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "Online co-op and messages are optional garnish; the game is complete offline and complete on disc.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elden_Ring"
+    ]
+  },
+  {
+    "id": "zelda-tears-of-the-kingdom",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "aliases": [
+      "totk",
+      "zelda totk"
+    ],
+    "year": 2023,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "The complete game ships on the cartridge — increasingly the exception, even at Nintendo, as Switch 2 'game-key cards' spread.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
+    ]
+  },
+  {
+    "id": "mario-kart-world",
+    "title": "Mario Kart World",
+    "year": 2025,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 80,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "The $80 flagship ships complete on cartridge. Check the box on other Switch 2 games: 'game-key card' means you're buying a download code in a case.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mario_Kart_World"
+    ]
+  },
+  {
+    "id": "mario-kart-8-deluxe",
+    "title": "Mario Kart 8 Deluxe",
+    "aliases": [
+      "mk8"
+    ],
+    "year": 2017,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "Offline play is forever. Online play lives exactly as long as Nintendo wants — ask Mario Kart Wii players, cut off in 2014.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mario_Kart_8_Deluxe"
+    ]
+  },
+  {
+    "id": "animal-crossing-new-horizons",
+    "title": "Animal Crossing: New Horizons",
+    "aliases": [
+      "acnh"
+    ],
+    "year": 2020,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons"
+    ]
+  },
+  {
+    "id": "pokemon-scarlet-violet",
+    "title": "Pokémon Scarlet and Violet",
+    "aliases": [
+      "pokemon sv"
+    ],
+    "year": 2022,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Scarlet_and_Violet"
+    ]
+  },
+  {
+    "id": "super-smash-bros-ultimate",
+    "title": "Super Smash Bros. Ultimate",
+    "aliases": [
+      "smash"
+    ],
+    "year": 2018,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate"
+    ]
+  },
+  {
+    "id": "metroid-prime-4",
+    "title": "Metroid Prime 4: Beyond",
+    "year": 2025,
+    "publisherId": "nintendo",
+    "platforms": [
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Metroid_Prime_4:_Beyond"
+    ]
+  },
+  {
+    "id": "god-of-war-ragnarok",
+    "title": "God of War Ragnarök",
+    "year": 2022,
+    "publisherId": "sony",
+    "platforms": [
+      "pc",
+      "playstation"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "Fully offline — but the PC version added a mandatory PSN account login, a leash Sony now attaches to its single-player ports.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k"
+    ]
+  },
+  {
+    "id": "marvels-spider-man-2",
+    "title": "Marvel's Spider-Man 2",
+    "aliases": [
+      "spiderman 2"
+    ],
+    "year": 2023,
+    "publisherId": "sony",
+    "platforms": [
+      "pc",
+      "playstation"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man_2"
+    ]
+  },
+  {
+    "id": "ghost-of-yotei",
+    "title": "Ghost of Yōtei",
+    "year": 2025,
+    "publisherId": "sony",
+    "platforms": [
+      "playstation"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei"
+    ]
+  },
+  {
+    "id": "death-stranding-2",
+    "title": "Death Stranding 2: On the Beach",
+    "aliases": [
+      "ds2"
+    ],
+    "year": 2025,
+    "publisherId": "sony",
+    "platforms": [
+      "playstation"
+    ],
+    "priceUSD": 70,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "The social strand features need servers; the journey doesn't.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach"
+    ]
+  },
+  {
+    "id": "starfield",
+    "title": "Starfield",
+    "year": 2023,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Plays fully offline — but the 'physical' premium edition was a code in a box. No disc preserves this game.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Starfield_(video_game)"
+    ]
+  },
+  {
+    "id": "doom-the-dark-ages",
+    "title": "Doom: The Dark Ages",
+    "year": 2025,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "denuvo",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "A fully offline campaign wrapped in Denuvo anti-tamper — durability by design, undermined by DRM.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Doom:_The_Dark_Ages"
+    ]
+  },
+  {
+    "id": "redfall",
+    "title": "Redfall",
+    "year": 2023,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "offline_patch_released",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Launched requiring a connection even solo; after the studio was closed, the final update made it playable offline forever. The bar every dying game should clear.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Redfall"
+    ]
+  },
+  {
+    "id": "age-of-empires-2-de",
+    "title": "Age of Empires II: Definitive Edition",
+    "aliases": [
+      "aoe2"
+    ],
+    "year": 2019,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 20,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "private_servers",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "A 26-year-old game still thriving — skirmish and LAN survive anything.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Age_of_Empires_II:_Definitive_Edition"
+    ]
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "year": 2011,
+    "publisherId": "microsoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 30,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "private_servers",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Offline worlds and self-hosted servers make it nearly unkillable — though Microsoft's migration to mandatory accounts showed who holds the keys.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Minecraft"
+    ]
+  },
+  {
+    "id": "sims-4",
+    "title": "The Sims 4",
+    "year": 2014,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 0,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "f2p_live",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Plays offline — good, because EA just killed The Sims Mobile and has $1,000+ of DLC riding on this one.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Sims_4"
+    ]
+  },
+  {
+    "id": "battlefield-6",
+    "title": "Battlefield 6",
+    "aliases": [
+      "bf6"
+    ],
+    "year": 2025,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "none",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "EA switched off Battlefield Hardline's console servers in June 2026 and has killed every older Battlefield's online eventually. The campaign will outlive the part everyone actually buys it for.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Battlefield_6",
+      "https://www.ea.com/service-updates"
+    ]
+  },
+  {
+    "id": "star-wars-jedi-survivor",
+    "title": "Star Wars Jedi: Survivor",
+    "year": 2023,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Offline single-player (Denuvo was removed post-launch). The disc still needs a hefty download.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor"
+    ]
+  },
+  {
+    "id": "split-fiction",
+    "title": "Split Fiction",
+    "year": 2025,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 50,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Couch co-op means the whole game works with zero servers — Hazelight builds them like they used to.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Split_Fiction"
+    ]
+  },
+  {
+    "id": "dragon-age-veilguard",
+    "title": "Dragon Age: The Veilguard",
+    "year": 2024,
+    "publisherId": "ea",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Fully offline, no EA account required — BioWare's other 2020s game, Anthem, is already in the graveyard for doing the opposite.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dragon_Age:_The_Veilguard"
+    ]
+  },
+  {
+    "id": "assassins-creed-shadows",
+    "title": "Assassin's Creed Shadows",
+    "aliases": [
+      "ac shadows"
+    ],
+    "year": 2025,
+    "publisherId": "ubisoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium_live",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Playable offline after activation — but Ubisoft Connect sits between you and your game, from the publisher that decommissioned online services for 90+ titles in one sweep.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Shadows"
+    ]
+  },
+  {
+    "id": "the-crew-motorfest",
+    "title": "The Crew Motorfest",
+    "year": 2023,
+    "publisherId": "ubisoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "features",
+    "spServerDependent": true,
+    "drm": "online_auth",
+    "model": "premium_live",
+    "eol": "offline_patch_promised",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Same architecture that killed The Crew — but after the lawsuit and backlash, Ubisoft pledged offline modes for Motorfest and The Crew 2. Pressure works; hold them to it.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Crew_Motorfest",
+      "https://www.thecrew-game.com/"
+    ]
+  },
+  {
+    "id": "far-cry-6",
+    "title": "Far Cry 6",
+    "year": 2021,
+    "publisherId": "ubisoft",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Far_Cry_6"
+    ]
+  },
+  {
+    "id": "hogwarts-legacy",
+    "title": "Hogwarts Legacy",
+    "year": 2023,
+    "publisherId": "wb",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "denuvo",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "Fully offline open world; Denuvo is the only string attached to the PC version.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hogwarts_Legacy"
+    ]
+  },
+  {
+    "id": "suicide-squad-ktjl",
+    "title": "Suicide Squad: Kill the Justice League",
+    "year": 2024,
+    "publisherId": "wb",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 70,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "denuvo",
+    "model": "premium_live",
+    "eol": "offline_patch_released",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Launched always-online even solo; its final update added a full offline mode. The right ending to the wrong design — and proof patches like this cost publishers little.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League"
+    ]
+  },
+  {
+    "id": "final-fantasy-7-rebirth",
+    "title": "Final Fantasy VII Rebirth",
+    "aliases": [
+      "ff7 rebirth"
+    ],
+    "year": 2024,
+    "publisherId": "square-enix",
+    "platforms": [
+      "pc",
+      "playstation"
+    ],
+    "priceUSD": 70,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth"
+    ]
+  },
+  {
+    "id": "clair-obscur-expedition-33",
+    "title": "Clair Obscur: Expedition 33",
+    "aliases": [
+      "expedition 33"
+    ],
+    "year": 2025,
+    "publisherId": "kepler",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 50,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33"
+    ]
+  },
+  {
+    "id": "black-myth-wukong",
+    "title": "Black Myth: Wukong",
+    "aliases": [
+      "wukong"
+    ],
+    "year": 2024,
+    "publisherId": "game-science",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Black_Myth:_Wukong"
+    ]
+  },
+  {
+    "id": "kingdom-come-deliverance-2",
+    "title": "Kingdom Come: Deliverance II",
+    "aliases": [
+      "kcd2"
+    ],
+    "year": 2025,
+    "publisherId": "plaion",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": null,
+    "notes": "DRM-free on GOG. A 100-hour RPG nobody can repossess.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance_II"
+    ]
+  },
+  {
+    "id": "stalker-2",
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "aliases": [
+      "stalker 2"
+    ],
+    "year": 2024,
+    "publisherId": "gsc-game-world",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": null,
+    "notes": "DRM-free on GOG.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
+    ]
+  },
+  {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "year": 2023,
+    "publisherId": "epic",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 60,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": false,
+    "notes": "Digital-only for its first year; the eventual deluxe disc still needs a download. A fully offline game you can't fully hold.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alan_Wake_2"
+    ]
+  },
+  {
+    "id": "wayfinder",
+    "title": "Wayfinder",
+    "year": 2023,
+    "publisherId": "airship-syndicate",
+    "platforms": [
+      "pc",
+      "playstation"
+    ],
+    "priceUSD": 25,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "offline_patch_released",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Launched as an always-online live service; when its publisher walked away, the developers bought it back and rebuilt it fully offline rather than kill it. The counter-example to every tombstone in the graveyard.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wayfinder_(video_game)"
+    ]
+  },
+  {
+    "id": "no-mans-sky",
+    "title": "No Man's Sky",
+    "aliases": [
+      "nms"
+    ],
+    "year": 2016,
+    "publisherId": "hello-games",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 60,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "A decade of free updates and the whole universe still works offline.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/No_Man%27s_Sky"
+    ]
+  },
+  {
+    "id": "valheim",
+    "title": "Valheim",
+    "year": 2021,
+    "publisherId": "coffee-stain",
+    "platforms": [
+      "pc",
+      "xbox"
+    ],
+    "priceUSD": 20,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "private_servers",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Valheim"
+    ]
+  },
+  {
+    "id": "palworld",
+    "title": "Palworld",
+    "year": 2024,
+    "publisherId": "pocketpair",
+    "platforms": [
+      "pc",
+      "xbox",
+      "playstation"
+    ],
+    "priceUSD": 30,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "private_servers",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Palworld"
+    ]
+  },
+  {
+    "id": "deep-rock-galactic",
+    "title": "Deep Rock Galactic",
+    "aliases": [
+      "drg"
+    ],
+    "year": 2018,
+    "publisherId": "coffee-stain",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 30,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "Solo play with Bosco works offline. Rock and stone.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Deep_Rock_Galactic"
+    ]
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "year": 2016,
+    "publisherId": "concernedape",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 15,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "notes": "DRM-free on GOG, complete on cartridge, updated free for a decade by one person. The anti-live-service.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stardew_Valley"
+    ]
+  },
+  {
+    "id": "terraria",
+    "title": "Terraria",
+    "year": 2011,
+    "publisherId": "re-logic",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 10,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "private_servers",
+    "physical": true,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Terraria"
+    ]
+  },
+  {
+    "id": "factorio",
+    "title": "Factorio",
+    "year": 2020,
+    "publisherId": "wube",
+    "platforms": [
+      "pc",
+      "nintendo"
+    ],
+    "priceUSD": 35,
+    "online": "optional",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "private_servers",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "DRM-free download from the developer's own site. Never goes on sale; never gets taken away.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Factorio"
+    ]
+  },
+  {
+    "id": "rimworld",
+    "title": "RimWorld",
+    "year": 2018,
+    "publisherId": "ludeon",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox"
+    ],
+    "priceUSD": 35,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/RimWorld"
+    ]
+  },
+  {
+    "id": "hades-2",
+    "title": "Hades II",
+    "aliases": [
+      "hades 2"
+    ],
+    "year": 2025,
+    "publisherId": "supergiant",
+    "platforms": [
+      "pc",
+      "nintendo"
+    ],
+    "priceUSD": 30,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hades_II"
+    ]
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "aliases": [
+      "silksong"
+    ],
+    "year": 2025,
+    "publisherId": "team-cherry",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo"
+    ],
+    "priceUSD": 20,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "drm_free",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "notes": "DRM-free on GOG. $20, offline forever.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong"
+    ]
+  },
+  {
+    "id": "balatro",
+    "title": "Balatro",
+    "year": 2024,
+    "publisherId": "playstack",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 15,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": true,
+    "physicalComplete": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Balatro"
+    ]
+  },
+  {
+    "id": "vampire-survivors",
+    "title": "Vampire Survivors",
+    "year": 2022,
+    "publisherId": "poncle",
+    "platforms": [
+      "pc",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "mobile"
+    ],
+    "priceUSD": 5,
+    "online": "none",
+    "spServerDependent": false,
+    "drm": "storefront",
+    "model": "premium",
+    "eol": "unknown",
+    "physical": false,
+    "physicalComplete": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vampire_Survivors"
+    ]
+  }
 ]

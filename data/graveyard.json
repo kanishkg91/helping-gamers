@@ -11,7 +11,9 @@
     "epitaph": "Sony's $40 hero shooter, reportedly eight years and ~$200M in the making, was taken offline 14 days after launch. Every copy was refunded; the studio was closed.",
     "playersAffected": "All buyers; servers never returned",
     "refunds": true,
-    "sources": ["https://en.wikipedia.org/wiki/Concord_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Concord_(video_game)"
+    ]
   },
   {
     "id": "the-crew",
@@ -24,7 +26,10 @@
     "loss": "everything",
     "epitaph": "12 million players. After nine years Ubisoft shut the servers, revoked licenses from libraries, and argued in court that buyers had 'never owned' it. This shutdown launched the Stop Killing Games movement.",
     "playersAffected": "12M+ registered players",
-    "sources": ["https://en.wikipedia.org/wiki/The_Crew_(video_game)", "https://www.polygon.com/gaming/510164/ubisoft-lawsuit-the-crew-shutdown-license"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Crew_(video_game)",
+      "https://www.polygon.com/gaming/510164/ubisoft-lawsuit-the-crew-shutdown-license"
+    ]
   },
   {
     "id": "anthem",
@@ -36,7 +41,10 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "BioWare's always-online loot shooter became unplayable for everyone — disc owners included. No offline patch. Seven years old.",
-    "sources": ["https://en.wikipedia.org/wiki/Anthem_(video_game)", "https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anthem_(video_game)",
+      "https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"
+    ]
   },
   {
     "id": "highguard",
@@ -50,7 +58,9 @@
     "loss": "everything",
     "epitaph": "2 million players at launch in late January 2026. Funding was pulled within weeks; servers off March 12. About six weeks, start to finish.",
     "playersAffected": "2M+ players",
-    "sources": ["https://www.pushsquare.com/news/2026/03/highguard-permanently-shuts-down-on-12th-march"]
+    "sources": [
+      "https://www.pushsquare.com/news/2026/03/highguard-permanently-shuts-down-on-12th-march"
+    ]
   },
   {
     "id": "pubg-blindspot",
@@ -62,7 +72,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Launched into early access February 4, 2026; shut down altogether March 30. Eight weeks.",
-    "sources": ["https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"]
+    "sources": [
+      "https://gamerant.com/games-shut-down-2026-list-highguard-anthem/"
+    ]
   },
   {
     "id": "the-day-before",
@@ -75,7 +87,9 @@
     "loss": "everything",
     "epitaph": "Steam's most-wishlisted game. The studio announced its own closure four days after launch; servers died at day 46. Steam refunded broadly.",
     "refunds": true,
-    "sources": ["https://en.wikipedia.org/wiki/The_Day_Before"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Day_Before"
+    ]
   },
   {
     "id": "xdefiant",
@@ -88,7 +102,9 @@
     "loss": "everything",
     "epitaph": "Ubisoft's Call of Duty rival drew 10M+ players in weeks, was sunset less than seven months after launch, and was fully gone within about a year.",
     "playersAffected": "11M+ players",
-    "sources": ["https://en.wikipedia.org/wiki/XDefiant"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/XDefiant"
+    ]
   },
   {
     "id": "multiversus",
@@ -100,7 +116,9 @@
     "model": "f2p_live",
     "loss": "online_only",
     "epitaph": "Shut down twice: once as a 'beta' in 2023, then for good a year after relaunch. A final offline mode preserves owned fighters against bots.",
-    "sources": ["https://en.wikipedia.org/wiki/MultiVersus"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/MultiVersus"
+    ]
   },
   {
     "id": "rumbleverse",
@@ -113,7 +131,9 @@
     "loss": "everything",
     "epitaph": "The brawler-royale lasted 201 days. Epic refunded all purchases.",
     "refunds": true,
-    "sources": ["https://en.wikipedia.org/wiki/Rumbleverse"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rumbleverse"
+    ]
   },
   {
     "id": "knockout-city",
@@ -125,7 +145,9 @@
     "model": "f2p_live",
     "loss": "online_only",
     "epitaph": "Console servers died, but developer Velan released a self-hosted PC edition on the way out — the exception that proves an afterlife is possible.",
-    "sources": ["https://en.wikipedia.org/wiki/Knockout_City_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Knockout_City_(video_game)"
+    ]
   },
   {
     "id": "babylons-fall",
@@ -137,7 +159,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "A $60 PlatinumGames action game, dead before its first birthday. Unspent premium currency was refunded; the game was not.",
-    "sources": ["https://en.wikipedia.org/wiki/Babylon%27s_Fall"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Babylon%27s_Fall"
+    ]
   },
   {
     "id": "marvels-avengers",
@@ -149,7 +173,9 @@
     "model": "premium_live",
     "loss": "delisted",
     "epitaph": "Support ended and the game was pulled from sale three years after a full-priced launch. It remains playable — until the day it doesn't.",
-    "sources": ["https://en.wikipedia.org/wiki/Marvel%27s_Avengers_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marvel%27s_Avengers_(video_game)"
+    ]
   },
   {
     "id": "battleborn",
@@ -161,7 +187,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "Gearbox's $60 hero shooter went completely dark — story campaign included.",
-    "sources": ["https://en.wikipedia.org/wiki/Battleborn_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Battleborn_(video_game)"
+    ]
   },
   {
     "id": "evolve",
@@ -173,7 +201,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "Dedicated servers and the Stage 2 relaunch were shut in 2018; legacy peer-to-peer limped along for owners before finally going dark too.",
-    "sources": ["https://en.wikipedia.org/wiki/Evolve_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Evolve_(video_game)"
+    ]
   },
   {
     "id": "paragon",
@@ -186,7 +216,9 @@
     "loss": "everything",
     "epitaph": "Epic killed its MOBA to staff Fortnite — then refunded every purchase and gave away $17M of assets. Still the gold standard for how to shut a game down.",
     "refunds": true,
-    "sources": ["https://en.wikipedia.org/wiki/Paragon_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paragon_(video_game)"
+    ]
   },
   {
     "id": "lawbreakers",
@@ -198,7 +230,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "Cliff Bleszinski's arena shooter, dead in 13 months with no offline option.",
-    "sources": ["https://en.wikipedia.org/wiki/LawBreakers"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/LawBreakers"
+    ]
   },
   {
     "id": "crucible",
@@ -210,7 +244,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Amazon's debut shooter was 'un-launched' back to beta within two months and cancelled within six.",
-    "sources": ["https://en.wikipedia.org/wiki/Crucible_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Crucible_(video_game)"
+    ]
   },
   {
     "id": "hyper-scape",
@@ -222,7 +258,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Ubisoft's battle royale lasted 20 months.",
-    "sources": ["https://en.wikipedia.org/wiki/Hyper_Scape"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hyper_Scape"
+    ]
   },
   {
     "id": "spellbreak",
@@ -234,7 +272,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Shut down after Blizzard acqui-hired developer Proletariat to work on World of Warcraft instead.",
-    "sources": ["https://en.wikipedia.org/wiki/Spellbreak"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spellbreak"
+    ]
   },
   {
     "id": "crossfirex",
@@ -246,7 +286,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "The paid Remedy-developed single-player campaigns became permanently unplayable when the game shut down 15 months after launch.",
-    "sources": ["https://en.wikipedia.org/wiki/CrossfireX"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/CrossfireX"
+    ]
   },
   {
     "id": "gran-turismo-sport",
@@ -258,7 +300,9 @@
     "model": "premium_live",
     "loss": "online_only",
     "epitaph": "Online services off: campaign progress could no longer be saved, most content became inaccessible. A shell of the product people paid for remains.",
-    "sources": ["https://en.wikipedia.org/wiki/Gran_Turismo_Sport"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gran_Turismo_Sport"
+    ]
   },
   {
     "id": "driveclub",
@@ -270,7 +314,9 @@
     "model": "premium_live",
     "loss": "online_only",
     "epitaph": "Delisted in 2019, servers off in 2020, DLC gone from sale. Offline racing survives.",
-    "sources": ["https://en.wikipedia.org/wiki/Driveclub"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Driveclub"
+    ]
   },
   {
     "id": "littlebigplanet-3",
@@ -283,7 +329,9 @@
     "loss": "online_only",
     "epitaph": "A 'temporary' server outage was made permanent — an estimated 10 million player-created levels, a decade of community creativity, gone.",
     "playersAffected": "~10M user-created levels lost",
-    "sources": ["https://en.wikipedia.org/wiki/LittleBigPlanet_3"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/LittleBigPlanet_3"
+    ]
   },
   {
     "id": "destruction-allstars",
@@ -296,7 +344,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "The PS5 launch-window vehicular brawler was delisted and switched off in May 2026.",
-    "sources": ["https://checkpointgaming.net/news/2026/05/destruction-allstars-delisted-multiplayer-servers-shut-down/"]
+    "sources": [
+      "https://checkpointgaming.net/news/2026/05/destruction-allstars-delisted-multiplayer-servers-shut-down/"
+    ]
   },
   {
     "id": "firewall-ultra",
@@ -309,7 +359,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "The PSVR2 flagship shooter went dark about two and a half years after launch; its studio had already been shuttered.",
-    "sources": ["https://en.wikipedia.org/wiki/Firewall_Ultra"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Firewall_Ultra"
+    ]
   },
   {
     "id": "overwatch-1",
@@ -322,7 +374,9 @@
     "loss": "everything",
     "epitaph": "Not shut down — overwritten. The $40 game tens of millions bought was replaced in place by a free-to-play sequel. There is no way to play what was sold.",
     "playersAffected": "50M+ players",
-    "sources": ["https://en.wikipedia.org/wiki/Overwatch_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Overwatch_(video_game)"
+    ]
   },
   {
     "id": "csgo",
@@ -334,7 +388,9 @@
     "model": "f2p_live",
     "loss": "online_only",
     "epitaph": "Replaced by Counter-Strike 2 overnight. A legacy branch remains without official matchmaking. The skins, conveniently, carried over.",
-    "sources": ["https://en.wikipedia.org/wiki/Counter-Strike_2"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Counter-Strike_2"
+    ]
   },
   {
     "id": "darkspore",
@@ -346,7 +402,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "A paid single-player game with always-online DRM. When the auth servers died, so did every copy. The warning nobody heeded.",
-    "sources": ["https://en.wikipedia.org/wiki/Darkspore"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Darkspore"
+    ]
   },
   {
     "id": "club-penguin",
@@ -359,7 +417,9 @@
     "loss": "everything",
     "epitaph": "Disney shut the beloved kids' world to push a mobile replacement — which itself died the next year.",
     "playersAffected": "200M+ registered accounts over its life",
-    "sources": ["https://en.wikipedia.org/wiki/Club_Penguin"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Club_Penguin"
+    ]
   },
   {
     "id": "disney-infinity",
@@ -371,7 +431,9 @@
     "model": "premium_live",
     "loss": "online_only",
     "epitaph": "Disney exited games publishing and orphaned a toys-to-life platform families had spent an estimated $1.5B on. PC and mobile versions were switched off entirely; console discs survive, frozen.",
-    "sources": ["https://en.wikipedia.org/wiki/Disney_Infinity"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Disney_Infinity"
+    ]
   },
   {
     "id": "toontown-online",
@@ -383,7 +445,9 @@
     "model": "subscription",
     "loss": "everything",
     "epitaph": "Closed by Disney; rebuilt by its community as Toontown Rewritten without Disney's blessing — and still running there today.",
-    "sources": ["https://en.wikipedia.org/wiki/Toontown_Online"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Toontown_Online"
+    ]
   },
   {
     "id": "star-wars-galaxies",
@@ -395,7 +459,9 @@
     "model": "subscription",
     "loss": "everything",
     "epitaph": "Shut down ahead of The Old Republic's launch. A generation's characters, homes and player cities deleted; emulator projects keep the memory alive.",
-    "sources": ["https://en.wikipedia.org/wiki/Star_Wars_Galaxies"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Wars_Galaxies"
+    ]
   },
   {
     "id": "city-of-heroes",
@@ -407,7 +473,9 @@
     "model": "subscription",
     "loss": "everything",
     "epitaph": "Killed while reportedly profitable. Twelve years later, NCSoft finally licensed the community servers that had resurrected it.",
-    "sources": ["https://en.wikipedia.org/wiki/City_of_Heroes"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/City_of_Heroes"
+    ]
   },
   {
     "id": "wildstar",
@@ -419,7 +487,9 @@
     "model": "subscription",
     "loss": "everything",
     "epitaph": "Every character, world and purchase, erased after four years.",
-    "sources": ["https://en.wikipedia.org/wiki/WildStar_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/WildStar_(video_game)"
+    ]
   },
   {
     "id": "defiance",
@@ -431,7 +501,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "Both Defiance and its 2050 re-release were switched off the same day.",
-    "sources": ["https://en.wikipedia.org/wiki/Defiance_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Defiance_(video_game)"
+    ]
   },
   {
     "id": "dr-mario-world",
@@ -443,7 +515,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Nintendo's mobile puzzler lasted 28 months.",
-    "sources": ["https://en.wikipedia.org/wiki/Dr._Mario_World"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dr._Mario_World"
+    ]
   },
   {
     "id": "animal-crossing-pocket-camp",
@@ -455,7 +529,9 @@
     "model": "f2p_live",
     "loss": "online_only",
     "epitaph": "Service ended after seven years — but Nintendo shipped a paid offline version that carries your camp over. The soft landing every dying game deserves.",
-    "sources": ["https://en.wikipedia.org/wiki/Animal_Crossing:_Pocket_Camp"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Animal_Crossing:_Pocket_Camp"
+    ]
   },
   {
     "id": "gundam-evolution",
@@ -467,7 +543,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "The free-to-play hero shooter lasted 14 months.",
-    "sources": ["https://en.wikipedia.org/wiki/Gundam_Evolution"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gundam_Evolution"
+    ]
   },
   {
     "id": "echo-vr",
@@ -479,7 +557,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "VR's defining zero-gravity sport, shut by Meta despite community petitions and offers to run it themselves.",
-    "sources": ["https://en.wikipedia.org/wiki/Lone_Echo"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lone_Echo"
+    ]
   },
   {
     "id": "worlds-adrift",
@@ -492,7 +572,9 @@
     "loss": "everything",
     "epitaph": "The community-built physics MMO couldn't find enough players; recent buyers were refunded.",
     "refunds": true,
-    "sources": ["https://en.wikipedia.org/wiki/Worlds_Adrift"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Worlds_Adrift"
+    ]
   },
   {
     "id": "gigantic",
@@ -504,7 +586,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Dead after a year — then resurrected in 2024 as a paid, offline-capable re-release by new owners. Games only stay dead while nobody cares.",
-    "sources": ["https://en.wikipedia.org/wiki/Gigantic_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gigantic_(video_game)"
+    ]
   },
   {
     "id": "need-for-speed-world",
@@ -516,7 +600,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "One of four EA free-to-play games killed on the same day in 2015.",
-    "sources": ["https://en.wikipedia.org/wiki/Need_for_Speed:_World"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Need_for_Speed:_World"
+    ]
   },
   {
     "id": "battlefield-heroes",
@@ -528,7 +614,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "The cartoon shooter died in EA's 2015 purge; fan projects later rebuilt it from scratch.",
-    "sources": ["https://en.wikipedia.org/wiki/Battlefield_Heroes"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Battlefield_Heroes"
+    ]
   },
   {
     "id": "pt",
@@ -540,7 +628,9 @@
     "model": "premium",
     "loss": "delisted",
     "epitaph": "Konami erased the 'Playable Teaser' so thoroughly it can never be re-downloaded. PS4s with it installed became collector's items.",
-    "sources": ["https://en.wikipedia.org/wiki/P.T._(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/P.T._(video_game)"
+    ]
   },
   {
     "id": "forza-horizon-4",
@@ -552,7 +642,9 @@
     "model": "premium_live",
     "loss": "delisted",
     "epitaph": "Delisted with all its DLC when licenses expired — the fourth Horizon game in a row to vanish from sale. Owners keep playing; no one else ever can.",
-    "sources": ["https://en.wikipedia.org/wiki/Forza_Horizon_4"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Forza_Horizon_4"
+    ]
   },
   {
     "id": "titanfall",
@@ -565,7 +657,9 @@
     "model": "premium_live",
     "loss": "delisted",
     "epitaph": "Sold for years while DDoS attacks made it unplayable, then quietly pulled from sale and discontinued. The community's Northstar mod keeps PC alive — no thanks to EA.",
-    "sources": ["https://en.wikipedia.org/wiki/Titanfall_(video_game)"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Titanfall_(video_game)"
+    ]
   },
   {
     "id": "the-sims-mobile",
@@ -578,7 +672,10 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Killed in EA's January 2026 purge alongside Anthem. Years of players' homes and Sims, unrecoverable.",
-    "sources": ["https://gamerant.com/games-shut-down-2026-list-highguard-anthem/", "https://www.ea.com/service-updates"]
+    "sources": [
+      "https://gamerant.com/games-shut-down-2026-list-highguard-anthem/",
+      "https://www.ea.com/service-updates"
+    ]
   },
   {
     "id": "nba-live-19",
@@ -591,7 +688,10 @@
     "model": "premium_live",
     "loss": "online_only",
     "epitaph": "EA's last NBA Live lost its online modes in the January 2026 purge; offline exhibition survives.",
-    "sources": ["https://gamerant.com/games-shut-down-2026-list-highguard-anthem/", "https://www.ea.com/service-updates"]
+    "sources": [
+      "https://gamerant.com/games-shut-down-2026-list-highguard-anthem/",
+      "https://www.ea.com/service-updates"
+    ]
   },
   {
     "id": "battlefield-hardline",
@@ -603,7 +703,10 @@
     "model": "premium_live",
     "loss": "online_only",
     "epitaph": "Console multiplayer switched off June 22, 2026, and the game delisted. The single-player campaign — and PC servers, for now — survive.",
-    "sources": ["https://gamerant.com/ea-game-shutting-down-battlefield-hardline-june-22/", "https://en.wikipedia.org/wiki/Battlefield_Hardline"]
+    "sources": [
+      "https://gamerant.com/ea-game-shutting-down-battlefield-hardline-june-22/",
+      "https://en.wikipedia.org/wiki/Battlefield_Hardline"
+    ]
   },
   {
     "id": "warzone-mobile",
@@ -616,7 +719,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "The mobile battle royale lasted barely two years, purchases and all.",
-    "sources": ["https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone_Mobile"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone_Mobile"
+    ]
   },
   {
     "id": "elder-scrolls-blades",
@@ -629,7 +734,9 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "Bethesda's mobile Elder Scrolls was switched off in 2026, taking players' towns and purchases with it.",
-    "sources": ["https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Blades"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Blades"
+    ]
   },
   {
     "id": "wwe-2k24",
@@ -642,7 +749,9 @@
     "model": "premium_live",
     "loss": "online_only",
     "epitaph": "Online modes dead roughly 22 months after a $60-70 launch — 2K's standard schedule. Offline wrestling remains.",
-    "sources": ["https://en.wikipedia.org/wiki/WWE_2K24"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/WWE_2K24"
+    ]
   },
   {
     "id": "king-of-meat",
@@ -655,7 +764,9 @@
     "model": "premium_live",
     "loss": "everything",
     "epitaph": "Amazon's co-op dungeon brawler was switched off within months of release.",
-    "sources": ["https://en.wikipedia.org/wiki/King_of_Meat"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/King_of_Meat"
+    ]
   },
   {
     "id": "kartrider",
@@ -668,6 +779,8 @@
     "model": "f2p_live",
     "loss": "everything",
     "epitaph": "A 19-year-old racer with a generation of players, closed to funnel them into its successor.",
-    "sources": ["https://en.wikipedia.org/wiki/Crazyracing_Kartrider"]
+    "sources": [
+      "https://en.wikipedia.org/wiki/Crazyracing_Kartrider"
+    ]
   }
 ]
