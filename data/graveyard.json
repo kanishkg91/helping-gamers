@@ -782,5 +782,21 @@
     "sources": [
       "https://en.wikipedia.org/wiki/Crazyracing_Kartrider"
     ]
+  },
+  {
+    "id": "aliens-fireteam-elite",
+    "title": "Aliens: Fireteam Elite",
+    "publisherId": "cold-iron",
+    "released": "2021-01-01",
+    "died": "2026-08-05",
+    "approx": true,
+    "priceUSD": 40,
+    "model": "premium_live",
+    "loss": "everything",
+    "epitaph": "Announced to become completely unplayable — co-op campaign included — on August 5, 2026.",
+    "sources": [
+      "https://gamerant.com/games-shutting-down-2026/",
+      "https://en.wikipedia.org/wiki/Aliens:_Fireteam_Elite"
+    ]
   }
 ]

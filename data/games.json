@@ -1,34 +1,5 @@
 [
   {
-    "id": "aliens-fireteam-elite",
-    "title": "Aliens: Fireteam Elite",
-    "year": 2021,
-    "publisherId": "cold-iron",
-    "platforms": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "priceUSD": 40,
-    "online": "required",
-    "spServerDependent": true,
-    "drm": "online_auth",
-    "model": "premium_live",
-    "eol": "none",
-    "physical": true,
-    "physicalComplete": false,
-    "shutdown": {
-      "announced": "2026-05-01",
-      "date": "2026-08-05",
-      "note": "Announced to become completely unplayable — co-op campaign included — on August 5, 2026."
-    },
-    "notes": "A paid co-op campaign that dies with its servers: the exact failure mode the Stop Killing Games movement exists to stop.",
-    "sources": [
-      "https://gamerant.com/games-shutting-down-2026/",
-      "https://en.wikipedia.org/wiki/Aliens:_Fireteam_Elite"
-    ]
-  },
-  {
     "id": "nhl-22",
     "title": "NHL 22",
     "year": 2021,
