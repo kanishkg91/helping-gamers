@@ -798,5 +798,37 @@
       "https://gamerant.com/games-shutting-down-2026/",
       "https://en.wikipedia.org/wiki/Aliens:_Fireteam_Elite"
     ]
+  },
+  {
+    "id": "nhl-22",
+    "title": "NHL 22",
+    "publisherId": "ea",
+    "released": "2021-01-01",
+    "died": "2026-08-31",
+    "approx": true,
+    "priceUSD": 60,
+    "model": "premium_live",
+    "loss": "online_only",
+    "epitaph": "Online modes end August 31, 2026 on all consoles; offline exhibition play survives.",
+    "sources": [
+      "https://www.ea.com/service-updates",
+      "https://gamerant.com/games-shutting-down-2026/"
+    ]
+  },
+  {
+    "id": "nhl-23",
+    "title": "NHL 23",
+    "publisherId": "ea",
+    "released": "2022-01-01",
+    "died": "2026-08-31",
+    "approx": true,
+    "priceUSD": 70,
+    "model": "premium_live",
+    "loss": "online_only",
+    "epitaph": "Online modes end August 31, 2026 — under four years after a $70 launch.",
+    "sources": [
+      "https://www.ea.com/service-updates",
+      "https://gamerant.com/games-shutting-down-2026/"
+    ]
   }
 ]
