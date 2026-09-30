@@ -1,33 +1,5 @@
 [
   {
-    "id": "grid-legends",
-    "title": "GRID Legends",
-    "year": 2022,
-    "publisherId": "ea",
-    "platforms": [
-      "pc",
-      "playstation",
-      "xbox"
-    ],
-    "priceUSD": 60,
-    "online": "features",
-    "spServerDependent": false,
-    "drm": "storefront",
-    "model": "premium_live",
-    "eol": "partial",
-    "physical": true,
-    "physicalComplete": false,
-    "shutdown": {
-      "announced": "2026-06-01",
-      "date": "2026-09-30",
-      "approx": true,
-      "note": "Server shutdown announced for later in 2026; offline racing will remain."
-    },
-    "sources": [
-      "https://gamerant.com/ea-game-shutting-down-grid-legends-servers/"
-    ]
-  },
-  {
     "id": "nba-2k25",
     "title": "NBA 2K25",
     "year": 2024,

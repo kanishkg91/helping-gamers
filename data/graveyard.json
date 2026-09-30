@@ -830,5 +830,20 @@
       "https://www.ea.com/service-updates",
       "https://gamerant.com/games-shutting-down-2026/"
     ]
+  },
+  {
+    "id": "grid-legends",
+    "title": "GRID Legends",
+    "publisherId": "ea",
+    "released": "2022-01-01",
+    "died": "2026-09-30",
+    "approx": true,
+    "priceUSD": 60,
+    "model": "premium_live",
+    "loss": "online_only",
+    "epitaph": "Server shutdown announced for later in 2026; offline racing will remain.",
+    "sources": [
+      "https://gamerant.com/ea-game-shutting-down-grid-legends-servers/"
+    ]
   }
 ]
